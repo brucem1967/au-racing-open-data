@@ -1,0 +1,115 @@
+name: validate
+
+# The published tree is the product, so CI checks the PRODUCT, not a build of
+# it: schemas present, no personal data, no forbidden source, numbers in the
+# cards matching the rows on disk. A dataset repo whose CI only lints Python
+# is checking the wrong thing.
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "20 23 * * *"   # after the daily data push
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Required files exist
+        run: |
+          set -e
+          for f in LICENSE LICENSES/ODC-BY-1.0.txt CITATION.cff CONTRIBUTING.md \
+                   datasets/track_geometry/track_geometry.csv \
+                   datasets/track_geometry/track_geometry_sources.csv \
+                   datasets/greyhound_sectionals_qld/greyhound_sectionals_qld.csv \
+                   datasets/track_weather; do
+            test -e "$f" || { echo "missing: $f"; exit 1; }
+          done
+
+      - name: No personal data, no forbidden sources
+        run: |
+          python3 - <<'PY'
+          import re, sys, pathlib
+          EMAIL = re.compile(r"[\w.+-]+@[\w.-]+\.\w+")
+          PHONE = re.compile(r"(?<!\d)(?:\+?61\s?|0)[2-478](?:[ \-]?\d){8}(?!\d)")
+          DOMAINS = ("api.gbgb.org.uk", "racenet.com.au", "racingandsports.com.au",
+                     "betfair-data-supplier", "promo.betfair.com")
+          bad = []
+          for p in sorted(pathlib.Path("datasets").rglob("*.csv")):
+              t = p.read_text(errors="ignore")
+              if EMAIL.search(t): bad.append(f"{p}: email address")
+              if PHONE.search(t): bad.append(f"{p}: phone number")
+              low = t.lower()
+              bad += [f"{p}: forbidden source {d}" for d in DOMAINS if d in low]
+          print("\n".join(bad) or "clean")
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Schemas and types hold
+        run: |
+          python3 - <<'PY'
+          import csv, sys, pathlib
+          EXPECTED = {
+            "datasets/track_geometry/track_geometry.csv":
+              ["track_id","code","code_name","latitude","longitude","geometry_trusted"],
+            "datasets/track_geometry/track_geometry_sources.csv":
+              ["track_id","field","source","source_class","licence_family"],
+            "datasets/greyhound_sectionals_qld/greyhound_sectionals_qld.csv":
+              ["date","track","race","greyhound","box","split_50m_sec",
+               "position_50m","rail_distance_50m_m","top_speed_kmh","finish_position"],
+            "datasets/greyhound_weights_vic/greyhound_weights_vic.csv":
+              ["date","greyhound","weight_kg"],
+          }
+          bad = []
+          for path, cols in EXPECTED.items():
+              p = pathlib.Path(path)
+              if not p.exists():
+                  bad.append(f"{path}: missing"); continue
+              with p.open(newline="", encoding="utf-8") as fh:
+                  header = next(csv.reader(fh))
+              missing = [c for c in cols if c not in header]
+              if missing:
+                  bad.append(f"{path}: missing columns {missing}")
+          # Dates must be ISO, and numeric columns must parse or be empty.
+          import re
+          iso = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+          for path, numcols in (
+              ("datasets/greyhound_sectionals_qld/greyhound_sectionals_qld.csv",
+               ["split_50m_sec","rail_distance_50m_m","top_speed_kmh"]),
+              ("datasets/greyhound_weights_vic/greyhound_weights_vic.csv",
+               ["weight_kg"])):
+              p = pathlib.Path(path)
+              if not p.exists(): continue
+              with p.open(newline="", encoding="utf-8") as fh:
+                  for i, row in enumerate(csv.DictReader(fh)):
+                      if i > 50000: break
+                      if row.get("date") and not iso.match(row["date"]):
+                          bad.append(f"{path}: non-ISO date {row['date']!r}"); break
+                      for c in numcols:
+                          v = row.get(c, "")
+                          if v == "": continue
+                          try: float(v)
+                          except ValueError:
+                              bad.append(f"{path}: {c}={v!r} is not numeric"); break
+          print("\n".join(bad) or "schemas ok")
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Loader and examples run
+        run: |
+          python3 -c "
+          import sys; sys.path.insert(0,'python')
+          from au_racing_open import load, datasets, describe
+          assert len(load('track_geometry')) > 100
+          assert describe('greyhound_sectionals_qld')['rows'] > 1000
+          print('loader ok:', datasets())
+          "
+          python3 examples/quickstart.py > /dev/null && echo "quickstart ok"
+
+      - name: Dataset cards carry generated stats
+        run: |
+          for f in README.md datasets/*/README.md; do
+            grep -q "AUTOSTATS:BEGIN" "$f" || { echo "$f has no stats block"; exit 1; }
+          done
+          echo "cards ok"
