@@ -1,0 +1,64 @@
+Australian Racing Open Data
+===========================
+
+DATA
+----
+All data files in this repository are licensed under the Open Data Commons
+Attribution License v1.0 (ODC-BY 1.0). Full text: LICENSES/ODC-BY-1.0.txt
+or https://opendatacommons.org/licenses/by/1-0/
+
+You may share, modify and use these databases, including commercially,
+provided you attribute them.
+
+Attribution string:
+    Australian Racing Open Data (PandaVision), ODC-BY 1.0
+    https://github.com/brucem1967/au-racing-open-data
+
+EXCEPTION — OpenStreetMap-derived geometry
+------------------------------------------
+datasets/track_geometry/track_geometry_osm_derived.csv is derived from
+OpenStreetMap data and is licensed under the Open Database License (ODbL)
+1.0, (c) OpenStreetMap contributors — https://www.openstreetmap.org/copyright
+
+ODbL carries a share-alike obligation that ODC-BY does not. That file is kept
+separate so that combining it with the rest is your explicit decision; if you
+merge them, treat the result as ODbL.
+
+datasets/track_weather additionally requires attribution to Open-Meteo, the
+source of the historical weather series.
+
+CODE
+----
+All code in this repository (python/, examples/, scripts and workflows) is
+licensed under the MIT License:
+
+Copyright (c) 2026 PandaVision
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+A NOTE ON WHAT A LICENCE MEANS HERE
+-----------------------------------
+Under Australian law, facts are not protected by copyright (IceTV v Nine
+Network) and computer-generated compilations attract no copyright at all
+(Telstra v Phone Directories). Australia has no sui generis database right.
+
+So this licence is best understood as the attribution norm we ask you to
+honour, rather than a claim of ownership over facts about racetracks and
+greyhounds. Please credit it anyway: attribution is what keeps open data
+coming.

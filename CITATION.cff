@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Australian Racing Open Data
+message: >-
+  If you use this dataset, please cite it. Attribution is the only thing
+  asked in return.
+type: dataset
+authors:
+  - name: PandaVision
+    website: https://github.com/brucem1967/au-racing-open-data
+repository-code: https://github.com/brucem1967/au-racing-open-data
+abstract: >-
+  Open datasets for Australian racing: club- and body-sourced track geometry
+  (turn radii, cambers, straight lengths, first-split distances) for greyhound,
+  harness and thoroughbred venues; per-run greyhound GPS sectionals from
+  Racing Queensland including distance off the rail; Victorian greyhound
+  race-day weigh-in weights; and daily weather keyed to venue coordinates.
+keywords:
+  - horse racing
+  - greyhound racing
+  - harness racing
+  - australia
+  - sports analytics
+  - open data
+  - sectionals
+  - track geometry
+license: ODC-BY-1.0
