@@ -54,3 +54,7 @@ silently smeared through the combined file.
 If you have archived weight sheets from before this dataset starts, that is
 genuinely valuable and we would like to include them with credit. Open an
 issue.
+
+---
+
+_Coverage here is partial and values are as supplied by their source. Empty means unknown, never zero. No warranty; not betting advice — see [DISCLAIMER.md](../../DISCLAIMER.md)._
