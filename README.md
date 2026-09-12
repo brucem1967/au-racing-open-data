@@ -12,6 +12,12 @@ Everything here is rebuilt and pushed **every day**. Nothing here is derived
 from a source that forbids republication — see
 [What is deliberately not here](#what-is-deliberately-not-here).
 
+> **Read this first:** this data is **incomplete by nature** and published as
+> it is, not as it ought to be. Coverage is partial, empty cells mean *unknown*
+> (never zero), values are as supplied by their source and not independently
+> verified, there is **no warranty**, and none of it is betting advice.
+> Full terms: **[DISCLAIMER.md](DISCLAIMER.md)**.
+
 <!-- AUTOSTATS:BEGIN -->
 **142,634 rows across 152 venues, 3,444 greyhounds and 116,832 venue-days of weather** — 9.6 MB of CSV, rebuilt 2026-09-12.
 
@@ -120,6 +126,14 @@ from it have shown **no betting edge at all** — which is exactly why it should
 be public: it is more useful to a community of researchers than it is sitting
 on one machine. If you find something in here we missed, we would genuinely
 like to hear about it.
+
+## Disclaimer
+
+Short version: incomplete coverage, no warranty, values as supplied and not
+independently verified, empty means unknown, not betting advice, no personal
+data, corrections welcome and acted on. The full text is in
+**[DISCLAIMER.md](DISCLAIMER.md)** — worth two minutes before you build
+anything on this.
 
 ## Citation
 

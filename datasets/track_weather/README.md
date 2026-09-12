@@ -56,3 +56,7 @@ We built this to test whether weather predicts results. On our own data it
 **did not** — no measurable edge, across several framings. It is published
 because a negative result from one modeller is not a negative result for
 everyone, and because the venue-keyed join is worth having regardless.
+
+---
+
+_Coverage here is partial and values are as supplied by their source. Empty means unknown, never zero. No warranty; not betting advice — see [DISCLAIMER.md](../../DISCLAIMER.md)._

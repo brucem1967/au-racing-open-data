@@ -65,3 +65,7 @@ One row per greyhound per run. Sorted by date, track, race, dog.
 We tested variants of the first two on our own book and found **no profitable
 edge** — which is a result worth publishing, and worth someone else checking
 with better methods.
+
+---
+
+_Coverage here is partial and values are as supplied by their source. Empty means unknown, never zero. No warranty; not betting advice — see [DISCLAIMER.md](../../DISCLAIMER.md)._

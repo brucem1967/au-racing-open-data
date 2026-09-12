@@ -119,3 +119,7 @@ coverage grows.
 This dataset exists because staff at dozens of racing clubs — people with
 actual jobs to do — took the time to look up a number for a stranger who
 emailed them. If you use this data, that is who you are really thanking.
+
+---
+
+_Coverage here is partial and values are as supplied by their source. Empty means unknown, never zero. No warranty; not betting advice — see [DISCLAIMER.md](../../DISCLAIMER.md)._
