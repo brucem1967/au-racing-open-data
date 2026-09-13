@@ -23,7 +23,7 @@ it.
 
 Plus **42 GRV first-split distances** across 13 Victorian greyhound venues, and 84 venues with OpenStreetMap-derived geometry (separately licensed).
 
-_Last rebuilt 2026-09-12._
+_Last rebuilt 2026-09-13._
 <!-- AUTOSTATS:END -->
 
 ## Why this is unusual
