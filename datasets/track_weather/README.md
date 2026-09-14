@@ -6,7 +6,7 @@ temperature range, maximum wind and maximum gust.
 <!-- AUTOSTATS:BEGIN -->
 **116,832 venue-days** · 48 venues · 2020-01-01 → 2026-08-30 · 7 yearly files
 
-_Last rebuilt 2026-09-13._
+_Last rebuilt 2026-09-14._
 <!-- AUTOSTATS:END -->
 
 ## Why keyed to venues
