@@ -3,10 +3,13 @@
 Open, machine-readable datasets for Australian racing — the kind of data that
 normally sits behind a login, a paywall, or nowhere at all.
 
-Two of these datasets, as far as we can tell, have never existed publicly
+Three of these datasets, as far as we can tell, have never existed publicly
 before: **track geometry** (turn radii, cambers, straight lengths, first-split
-distances — gathered by writing to 111 racing clubs and state bodies) and
-**greyhound GPS sectionals** at 50-metre resolution.
+distances — gathered by writing to 111 racing clubs and state bodies),
+**greyhound GPS sectionals** at 50-metre resolution, and **harness trip
+geometry** (position and width at the 800m/400m marks, and ground gained or
+lost each quarter) extracted from Harness Racing Victoria's public sectional
+reports.
 
 Everything here is rebuilt and pushed **every day**. Nothing here is derived
 from a source that forbids republication — see
@@ -19,7 +22,7 @@ from a source that forbids republication — see
 > Full terms: **[DISCLAIMER.md](DISCLAIMER.md)**.
 
 <!-- AUTOSTATS:BEGIN -->
-**148,849 rows across 152 venues, 3,514 greyhounds and 116,832 venue-days of weather** — 10.0 MB of CSV, rebuilt 2026-09-25.
+**228,109 rows across 152 venues, 3,514 greyhounds and 116,832 venue-days of weather** — 16.7 MB of CSV, rebuilt 2026-09-25.
 
 | Dataset | Rows | Coverage |
 |---|---|---|
@@ -27,6 +30,7 @@ from a source that forbids republication — see
 | Greyhound sectionals (QLD) | 24,956 runs | 2025-10-01 → 2026-09-23 |
 | Greyhound weights (VIC) | 6,108 weigh-ins | 14 race day(s), forward-only |
 | Track weather | 116,832 venue-days | 2020-01-01 → 2026-08-30 |
+| Harness sectionals (VIC) | 79,260 runner-rows | 8,854 races, 24 venues |
 <!-- AUTOSTATS:END -->
 
 ## The datasets
@@ -37,6 +41,7 @@ from a source that forbids republication — see
 | [`greyhound_sectionals_qld`](datasets/greyhound_sectionals_qld/) | Per-run GPS sectionals from Racing Queensland: 50 m split time, position, distance off the rail, top speed | Published as one CSV per meeting, in a format nobody aggregates |
 | [`greyhound_weights_vic`](datasets/greyhound_weights_vic/) | Race-day weigh-in weights to 0.1 kg, Victoria | The source page is overwritten daily — miss a day and it is gone forever. This archive only grows forward |
 | [`track_weather`](datasets/track_weather/) | Daily weather at racing venues since 2020: rain, temperature range, wind and gust maxima | Weather archives are not keyed to racetracks; these are joined to sourced venue coordinates |
+| [`harness_sectionals_vic`](datasets/harness_sectionals_vic/) | Per-runner trip geometry from Victorian harness racing: position and width at the 800m/400m marks, ground gained or lost each quarter | Only exists in per-meeting PDFs or a commercial bulk feed; no horse identity is guessed, only the reliable track/date/race/saddlecloth key |
 
 Each dataset directory has its own README with the full schema, coverage,
 collection method, known gaps and licence.
