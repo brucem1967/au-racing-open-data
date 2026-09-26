@@ -11,7 +11,7 @@ bulk feed from the timing vendor.
 <!-- AUTOSTATS:BEGIN -->
 **79,260 runner-rows** · 8,854 races · 24 venues · 2024-01-24 → 2026-09-24 · 3 yearly files
 
-_Last rebuilt 2026-09-25._
+_Last rebuilt 2026-09-26._
 <!-- AUTOSTATS:END -->
 
 ## Why this exists

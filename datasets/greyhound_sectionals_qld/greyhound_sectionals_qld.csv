@@ -1155,7 +1155,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2025-10-30,q-straight,Race 04,WOLF THUNDER,7.0,3.89,3.0,5.0,74.3,1.0
 2025-10-30,q-straight,Race 05,MIGHTY UPROAR,6.0,3.93,6.0,4.4,73.7,6.0
 2025-10-30,q-straight,Race 05,PLEASE CLARIFY,2.0,3.85,5.0,2.5,74.5,3.0
-2025-10-30,q-straight,Race 06,PEAKY WARLOCK,8.0,3.83,3.0,5.6,73.7,3.0
 2025-10-30,q-straight,Race 06,PERCY TWO,1.0,3.9,5.0,2.9,74.3,4.0
 2025-10-30,q-straight,Race 07,FLEETWOOD ODIN,4.0,3.8,2.0,3.4,75.1,1.0
 2025-10-30,q-straight,Race 07,HENRY LOCKSMITH,8.0,3.95,7.0,6.4,73.4,7.0
@@ -2321,7 +2320,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2025-11-27,q-straight,Race 01,FARMER FOX,1.0,4.05,7.0,1.9,71.4,3.0
 2025-11-27,q-straight,Race 01,MAGILL,7.0,3.98,5.0,4.9,69.7,5.0
 2025-11-27,q-straight,Race 02,SMART AS JEAN,4.0,3.96,3.0,5.6,71.6,6.0
-2025-11-27,q-straight,Race 02,SMASH OF GOLD,7.0,4.17,8.0,5.6,69.9,8.0
 2025-11-27,q-straight,Race 02,STAY THE RAGE,6.0,4.07,6.0,5.2,72.1,3.0
 2025-11-27,q-straight,Race 03,FURIOUS RAGE,4.0,4.03,7.0,4.1,72.4,6.0
 2025-11-27,q-straight,Race 04,NAN SAID NO,8.0,3.96,5.0,5.7,74.5,2.0
@@ -2491,7 +2489,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2025-12-01,q-straight,Race 09,UNACCEPTABLE PAT,5.0,3.95,5.0,8.5,74.6,2.0
 2025-12-01,q-straight,Race 09,WHO'S THE MAN,3.0,3.96,6.0,,73.6,6.0
 2025-12-01,q-straight,Race 10,CRIMSON WARRIOR,1.0,3.87,1.0,7.4,71.7,6.0
-2025-12-01,q-straight,Race 10,IT'S A PROMISE,5.0,4.08,8.0,7.8,70.6,8.0
 2025-12-01,q-straight,Race 10,MADE YOU LOOK,3.0,3.97,6.0,7.4,72.0,7.0
 2025-12-01,q-straight,Race 10,PARIS WILL WAIT,6.0,3.89,2.0,8.6,73.3,2.0
 2025-12-01,q-straight,Race 10,TEMPLE OF GOLD,2.0,3.96,4.0,6.2,74.0,1.0
@@ -3230,7 +3227,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2025-12-20,q1-lakeside,Race 03,POP'S MAESTRO,2.0,3.95,2.0,1.1,73.8,1.0
 2025-12-20,q1-lakeside,Race 04,MIGHTY UPROAR,6.0,4.08,6.0,1.7,70.8,6.0
 2025-12-20,q1-lakeside,Race 05,RINGBARK LARRY,7.0,4.04,6.0,2.2,71.1,4.0
-2025-12-20,q1-lakeside,Race 05,RUBY SLIPPER,3.0,4.08,7.0,0.8,72.0,7.0
 2025-12-20,q1-lakeside,Race 05,ZIPPING SAIGO,6.0,4.03,5.0,1.7,72.3,3.0
 2025-12-20,q1-lakeside,Race 06,AKELA MARTIAL,4.0,3.97,3.0,2.6,69.8,6.0
 2025-12-20,q1-lakeside,Race 06,CLEAN CUT,8.0,4.06,7.0,4.0,71.7,5.0
@@ -4144,7 +4140,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-01-15,q2-parklands,Race 03,SISTER RILEY,2.0,4.01,2.0,1.9,68.3,4.0
 2026-01-15,q2-parklands,Race 03,UNREAL SPEED,4.0,4.08,5.0,1.9,68.6,3.0
 2026-01-15,q2-parklands,Race 04,SOOTY KEEPING,7.0,3.83,2.0,3.7,71.2,1.0
-2026-01-15,q2-parklands,Race 04,TARAWI BUSTER,3.0,3.85,3.0,2.1,71.3,2.0
 2026-01-15,q2-parklands,Race 04,TERESITA,1.0,3.77,1.0,0.6,71.7,4.0
 2026-01-15,q2-parklands,Race 05,ACCREDITED,7.0,3.86,2.0,3.3,70.2,2.0
 2026-01-15,q2-parklands,Race 05,CUMBRIA CHRISSY,5.0,3.87,3.0,2.7,70.4,3.0
@@ -4667,7 +4662,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-01-29,q-straight,Race 07,QUINLAN,5.0,4.09,8.0,5.0,73.0,7.0
 2026-01-29,q-straight,Race 08,KYOTO,1.0,3.77,1.0,2.9,74.0,3.0
 2026-01-29,q-straight,Race 09,ANYTIME ROMEO,7.0,3.89,3.0,5.2,72.2,7.0
-2026-01-29,q-straight,Race 09,HARA'S ODEN,2.0,3.96,7.0,2.8,75.4,2.0
 2026-01-29,q-straight,Race 09,HOOKED ON MAGIC,8.0,3.93,5.0,6.2,73.5,4.0
 2026-01-29,q-straight,Race 09,KICKIN' TYRES,5.0,3.93,6.0,4.2,73.2,6.0
 2026-01-29,q-straight,Race 09,MAXIMUM ACE,6.0,4.0,8.0,4.2,74.2,5.0
@@ -5078,7 +5072,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-02-07,q1-lakeside,Race 02,SHINE A LIGHT,4.0,4.08,6.0,1.2,71.2,6.0
 2026-02-07,q1-lakeside,Race 03,HARA'S CHIEF,2.0,4.07,6.0,0.3,70.0,4.0
 2026-02-07,q1-lakeside,Race 03,RAPID ON FIRE,1.0,4.01,5.0,-0.2,72.7,6.0
-2026-02-07,q1-lakeside,Race 04,GOLDSTAR JOBLIN,3.0,3.92,1.0,0.1,72.3,3.0
 2026-02-07,q1-lakeside,Race 04,HARA'S JOKER,8.0,4.12,7.0,3.0,71.7,6.0
 2026-02-07,q1-lakeside,Race 04,SALUTE,6.0,4.04,6.0,2.1,71.9,7.0
 2026-02-07,q1-lakeside,Race 05,DAYS OF WONDER,1.0,3.9,2.0,1.9,72.1,4.0
@@ -5279,7 +5272,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-02-12,q-straight,Race 12,JUST DOUG,8.0,3.85,2.0,6.4,75.1,1.0
 2026-02-12,q-straight,Race 12,MANHATTAN GIRL,6.0,3.8,1.0,4.6,73.8,2.0
 2026-02-12,q-straight,Race 12,MESSY IN HEAVEN,2.0,3.95,5.0,2.3,73.8,4.0
-2026-02-12,q-straight,Race 12,TASTE LIKE HONEY,1.0,4.03,6.0,1.4,73.6,5.0
 2026-02-12,q2-parklands,Race 01,OUR GIRL STELLA,4.0,3.96,4.0,1.5,67.1,6.0
 2026-02-12,q2-parklands,Race 01,SHE REACTS,2.0,4.05,8.0,1.0,66.8,8.0
 2026-02-12,q2-parklands,Race 01,ZIPPING GRESSIER,7.0,3.99,7.0,,68.2,7.0
@@ -5599,7 +5591,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-02-21,q1-lakeside,Race 01,SKY KEEPING,2.0,3.96,4.0,0.9,72.3,2.0
 2026-02-21,q1-lakeside,Race 02,DUNDEE LEXI,3.0,4.14,7.0,0.2,69.2,8.0
 2026-02-21,q1-lakeside,Race 02,EASY TO SEE,1.0,3.93,1.0,0.3,71.3,7.0
-2026-02-21,q1-lakeside,Race 02,HOWDY ELISE,6.0,3.99,2.0,1.8,70.9,3.0
 2026-02-21,q1-lakeside,Race 02,LOCAL LEGEND,2.0,4.0,4.0,0.9,72.5,1.0
 2026-02-21,q1-lakeside,Race 02,NINETYMILE VENOM,5.0,4.14,8.0,2.1,69.7,6.0
 2026-02-21,q1-lakeside,Race 02,QUICK BISCUIT,8.0,4.09,6.0,3.4,71.2,4.0
@@ -5885,7 +5876,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-02-28,q1-lakeside,Race 06,BIG AL'S,3.0,3.91,1.0,0.8,73.6,1.0
 2026-02-28,q1-lakeside,Race 06,HARA'S JOKER,7.0,4.1,8.0,2.3,72.1,8.0
 2026-02-28,q1-lakeside,Race 06,LITTLE LIES,4.0,3.95,2.0,1.5,71.9,4.0
-2026-02-28,q1-lakeside,Race 06,MAN ON FIRE,1.0,3.95,3.0,-0.8,72.0,5.0
 2026-02-28,q1-lakeside,Race 06,WINNIE RUMBLE,5.0,4.07,7.0,1.8,72.6,7.0
 2026-02-28,q1-lakeside,Race 07,BLACK RASPBERRY,5.0,4.03,5.0,1.1,71.4,5.0
 2026-02-28,q1-lakeside,Race 07,HARA'S SQUASH,3.0,3.91,2.0,-1.3,72.3,4.0
@@ -6446,7 +6436,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-03-13,q1-lakeside,Race 07,METRICAL LEADER,1.0,4.15,7.0,-0.3,70.0,6.0
 2026-03-13,q1-lakeside,Race 08,HOWDY ROSE,3.0,4.04,6.0,0.7,68.4,6.0
 2026-03-13,q1-lakeside,Race 08,SLACK,2.0,3.92,2.0,0.4,69.9,7.0
-2026-03-13,q1-lakeside,Race 08,STAR TURN,6.0,3.93,3.0,1.7,71.3,1.0
 2026-03-13,q1-lakeside,Race 09,PERKY PENNY,6.0,3.81,1.0,2.6,70.9,3.0
 2026-03-13,q1-lakeside,Race 09,SHIAN QUIRKY,7.0,4.01,7.0,2.5,68.7,7.0
 2026-03-13,q1-lakeside,Race 10,FINEST CUT,1.0,4.0,6.0,0.4,69.3,3.0
@@ -7614,7 +7603,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-09,q-straight,Race 08,ELUSIVE HORNET,6.0,3.91,5.0,4.8,74.2,4.0
 2026-04-09,q-straight,Race 08,PROFESSOR SAXON,7.0,4.05,8.0,5.9,73.6,6.0
 2026-04-09,q-straight,Race 09,COUSIN HENRY,7.0,3.8,2.0,5.2,75.5,3.0
-2026-04-09,q-straight,Race 09,KALINA PEARL,2.0,3.75,1.0,3.2,69.6,6.0
 2026-04-09,q-straight,Race 09,MILES ON IT,4.0,3.81,3.0,,74.8,4.0
 2026-04-09,q-straight,Race 09,TARAWI BUSTER,5.0,3.83,4.0,4.4,75.0,2.0
 2026-04-09,q-straight,Race 10,BLACK HORSE,3.0,3.83,2.0,3.7,74.1,4.0
@@ -7625,7 +7613,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-09,q-straight,Race 11,BLUE SMARTIE,2.0,3.97,4.0,2.9,72.9,5.0
 2026-04-09,q-straight,Race 11,CLEAR BREEZE,8.0,4.0,6.0,,73.5,6.0
 2026-04-09,q-straight,Race 11,DAD'S VISION,6.0,3.81,2.0,4.7,74.2,2.0
-2026-04-09,q-straight,Race 11,LOST YOUR MARKER,1.0,3.79,1.0,2.4,75.2,1.0
 2026-04-09,q-straight,Race 11,STRONG BOY,4.0,4.08,8.0,4.3,73.0,8.0
 2026-04-09,q-straight,Race 11,WITCHETTY GRUB,7.0,3.99,5.0,6.1,73.3,4.0
 2026-04-09,q-straight,Race 12,BOGIE NICOLE,8.0,3.79,1.0,7.3,73.3,5.0
@@ -7973,7 +7960,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-16,q-straight,Race 01,SUZIE DARLING,3.0,3.97,5.0,4.3,69.7,7.0
 2026-04-16,q-straight,Race 01,YAMAZAKI CHASER,5.0,4.04,7.0,4.9,70.6,5.0
 2026-04-16,q-straight,Race 03,BLACK HORSE,8.0,3.85,2.0,6.7,73.8,1.0
-2026-04-16,q-straight,Race 03,CASH HANDY,1.0,3.88,5.0,,73.9,3.0
 2026-04-16,q-straight,Race 03,DRINK MICKEYS,7.0,3.87,3.0,5.7,73.3,4.0
 2026-04-16,q-straight,Race 03,WISE KEVIN,4.0,3.99,8.0,3.6,73.1,6.0
 2026-04-16,q-straight,Race 04,HAVOC,8.0,4.04,8.0,,72.1,7.0
@@ -7993,7 +7979,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-16,q-straight,Race 07,HOOKED ON MAGIC,2.0,4.03,7.0,2.7,73.6,6.0
 2026-04-16,q-straight,Race 07,SUPER CEVICHE,7.0,3.96,4.0,4.3,69.0,8.0
 2026-04-16,q-straight,Race 07,WORKMAN LIKE,3.0,3.9,2.0,,74.5,4.0
-2026-04-16,q-straight,Race 08,CYCLONE TIM,3.0,3.98,7.0,3.0,74.5,3.0
 2026-04-16,q-straight,Race 09,BENTLEY REX,2.0,4.03,4.0,3.4,73.5,4.0
 2026-04-16,q-straight,Race 09,DAWN SURE CAN,5.0,4.03,3.0,4.9,74.7,1.0
 2026-04-16,q-straight,Race 09,JILLIBY DYMAR,6.0,3.92,2.0,5.1,73.7,3.0
@@ -8428,7 +8413,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-23,q2-parklands,Race 04,CHEERS FOR BELLA,4.0,3.99,1.0,2.2,71.3,1.0
 2026-04-23,q2-parklands,Race 04,HARA'S FRANKIE,8.0,4.09,4.0,3.4,71.8,5.0
 2026-04-23,q2-parklands,Race 05,GOLDMINE FIRE,6.0,3.97,3.0,2.8,69.1,2.0
-2026-04-23,q2-parklands,Race 05,KITTY ANN,8.0,3.95,2.0,3.6,68.3,3.0
 2026-04-23,q2-parklands,Race 06,GOLDSTAR JASPER,5.0,3.98,7.0,4.7,70.2,2.0
 2026-04-23,q2-parklands,Race 06,LITTLE GRANNY,8.0,3.85,3.0,4.5,70.5,1.0
 2026-04-23,q2-parklands,Race 06,OBLIGING WARREN,2.0,3.85,2.0,0.9,70.0,6.0
@@ -8472,7 +8456,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-24,q1-lakeside,Race 06,RAPTOR GIRL,5.0,3.99,5.0,1.7,68.0,8.0
 2026-04-24,q1-lakeside,Race 07,FAST EDDIE,2.0,3.94,3.0,0.3,69.0,3.0
 2026-04-24,q1-lakeside,Race 07,LOST DRAGON,6.0,3.96,4.0,2.0,67.5,7.0
-2026-04-24,q1-lakeside,Race 07,SWEET LADETTE,4.0,3.86,1.0,1.6,71.6,1.0
 2026-04-24,q1-lakeside,Race 08,CAKE IS GREAT,7.0,3.88,1.0,3.6,71.1,1.0
 2026-04-24,q1-lakeside,Race 08,DAINTREE BLINDER,4.0,3.9,3.0,1.2,70.8,3.0
 2026-04-24,q1-lakeside,Race 08,FIRE AND GRAVY,3.0,3.93,4.0,0.5,69.3,5.0
@@ -8731,7 +8714,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-29,q1-lakeside,Race 06,DING DING HARROW,5.0,3.8,3.0,3.2,70.4,2.0
 2026-04-29,q1-lakeside,Race 06,HAYDEN'S GIFT,1.0,3.97,8.0,1.3,69.4,6.0
 2026-04-29,q1-lakeside,Race 07,GLEN'S WISH,6.0,3.85,4.0,4.1,69.8,3.0
-2026-04-29,q1-lakeside,Race 07,HUCKLEBERRY HUGO,1.0,3.9,6.0,2.0,69.3,4.0
 2026-04-29,q1-lakeside,Race 07,LOST YOUR MARKER,7.0,3.97,8.0,4.1,68.5,7.0
 2026-04-29,q1-lakeside,Race 07,SUTTON'S MAGIC,5.0,3.8,1.0,3.3,70.3,1.0
 2026-04-29,q1-lakeside,Race 08,APEX,4.0,3.8,3.0,2.9,70.1,3.0
@@ -8759,7 +8741,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-04-30,q-straight,Race 01,YAMAZAKI CHASER,1.0,3.9,2.0,3.1,70.3,3.0
 2026-04-30,q-straight,Race 02,EMPIRE PATROL,7.0,4.01,3.0,6.5,72.3,2.0
 2026-04-30,q-straight,Race 02,MISTER RAINMAKER,8.0,4.13,6.0,6.9,72.2,3.0
-2026-04-30,q-straight,Race 02,NEVER GIVING UP,5.0,3.93,1.0,4.0,71.5,1.0
 2026-04-30,q-straight,Race 02,TWISTED HEART,4.0,3.97,2.0,3.4,71.1,5.0
 2026-04-30,q-straight,Race 03,BOSTON BLUE,1.0,4.0,4.0,3.3,72.4,6.0
 2026-04-30,q-straight,Race 03,GROUSE MOUSE,2.0,3.99,3.0,3.7,70.6,7.0
@@ -9063,7 +9044,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-05,q1-lakeside,Race 09,GOLDSTAR SAINT,2.0,3.87,1.0,0.3,72.6,2.0
 2026-05-05,q1-lakeside,Race 09,HARA'S PUMPKIN,5.0,4.0,7.0,1.2,72.7,3.0
 2026-05-05,q1-lakeside,Race 09,SHE'S ALL FIRE,7.0,3.99,6.0,2.3,72.8,1.0
-2026-05-05,q1-lakeside,Race 10,LAUNCH MODE,8.0,4.05,5.0,2.9,72.1,3.0
 2026-05-05,q1-lakeside,Race 10,LOCO BLAZE,3.0,3.94,2.0,0.1,72.2,4.0
 2026-05-05,q1-lakeside,Race 11,BOOM BAM RANGER,3.0,4.03,2.0,-0.8,73.9,1.0
 2026-05-05,q1-lakeside,Race 11,GOLDSTAR MAX,7.0,4.05,3.0,2.8,72.3,2.0
@@ -9216,7 +9196,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-07,q-straight,Race 08,BY A MIRACLE,5.0,4.04,7.0,3.9,70.2,5.0
 2026-05-07,q-straight,Race 08,CHEVY STORM,8.0,3.9,1.0,4.7,71.5,1.0
 2026-05-07,q-straight,Race 08,JILLIBY DYMAR,6.0,4.02,6.0,4.4,71.3,2.0
-2026-05-07,q-straight,Race 08,TINY BIT SPOILT,2.0,3.9,2.0,3.2,69.1,7.0
 2026-05-07,q-straight,Race 08,TINY BUT POTENT,1.0,3.98,4.0,1.7,68.4,8.0
 2026-05-07,q-straight,Race 09,AFFLECK,1.0,3.88,5.0,2.1,71.3,7.0
 2026-05-07,q-straight,Race 09,HAYDEN'S GIFT,6.0,3.86,3.0,4.6,72.3,4.0
@@ -9230,7 +9209,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-07,q-straight,Race 10,STRIKING MISS,4.0,3.89,4.0,,72.5,5.0
 2026-05-07,q-straight,Race 11,LOST YOUR MARKER,2.0,3.99,6.0,2.4,73.1,1.0
 2026-05-07,q-straight,Race 11,NOT THE DEPUTY,8.0,3.98,5.0,5.6,71.8,6.0
-2026-05-07,q-straight,Race 11,STRIKES TWICE,6.0,3.9,3.0,4.3,72.4,5.0
 2026-05-07,q-straight,Race 11,STRIKING BEACH,1.0,3.97,4.0,1.6,71.8,4.0
 2026-05-07,q-straight,Race 11,SURGING SPARK,3.0,3.9,2.0,2.9,72.7,2.0
 2026-05-07,q-straight,Race 12,DENIM BEACH,8.0,3.98,4.0,6.1,72.0,4.0
@@ -9256,7 +9234,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-07,q2-parklands,Race 06,SAVANNA BEACH,1.0,3.88,2.0,1.5,72.2,2.0
 2026-05-07,q2-parklands,Race 07,HARA'S WALSH,7.0,4.04,7.0,4.1,67.4,6.0
 2026-05-07,q2-parklands,Race 07,NANGAR MACIE,3.0,3.88,1.0,2.9,69.3,3.0
-2026-05-07,q2-parklands,Race 07,SPEED HOLES,4.0,3.93,3.0,3.3,69.7,7.0
 2026-05-07,q2-parklands,Race 08,DEATH ADDER,5.0,4.0,6.0,3.2,69.2,4.0
 2026-05-07,q2-parklands,Race 09,SHAMROCK HAYZE,8.0,3.91,4.0,3.9,70.4,3.0
 2026-05-07,q2-parklands,Race 09,SWEETEST OF ALL,4.0,3.81,1.0,1.0,71.2,1.0
@@ -9491,7 +9468,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-13,q1-lakeside,Race 14,WINTER NIGHTS,4.0,4.09,8.0,2.7,67.0,7.0
 2026-05-14,q-straight,Race 02,LUMINATE,2.0,3.85,2.0,3.7,72.0,1.0
 2026-05-14,q-straight,Race 02,NEVER GIVING UP,6.0,3.9,4.0,4.5,73.2,2.0
-2026-05-14,q-straight,Race 03,BIG NATE,5.0,3.99,8.0,5.6,72.7,4.0
 2026-05-14,q-straight,Race 03,BROTHER SAM,4.0,3.94,4.0,4.7,73.5,2.0
 2026-05-14,q-straight,Race 03,HI CHARLIE,3.0,3.99,7.0,3.9,72.2,6.0
 2026-05-14,q-straight,Race 03,REGAL MALT,1.0,3.88,1.0,2.0,73.3,1.0
@@ -9575,7 +9551,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-14,q2-parklands,Race 11,COMICAL CYNDIE,2.0,3.9,2.0,1.0,68.4,8.0
 2026-05-14,q2-parklands,Race 11,JEREMIAH FIRE,4.0,3.93,4.0,1.6,67.6,3.0
 2026-05-14,q2-parklands,Race 11,POCKET PICKER,3.0,4.03,7.0,1.0,67.8,4.0
-2026-05-14,q2-parklands,Race 11,PROFESSOR STARR,6.0,3.88,1.0,2.6,70.0,1.0
 2026-05-15,q1-lakeside,Race 01,BALMAIN BOY,6.0,4.13,6.0,2.9,68.7,3.0
 2026-05-15,q1-lakeside,Race 01,CHARLYN,4.0,4.16,7.0,1.3,68.7,2.0
 2026-05-15,q1-lakeside,Race 01,NANASE,8.0,4.05,5.0,2.8,67.5,5.0
@@ -9946,7 +9921,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-20,q1-lakeside,Race 10,TINY ROCKET,2.0,3.91,5.0,2.5,68.0,4.0
 2026-05-20,q1-lakeside,Race 11,HARD STYLE WIFE,6.0,4.0,6.0,3.5,68.0,4.0
 2026-05-20,q1-lakeside,Race 11,MAJESTIC ONE,2.0,3.94,4.0,2.4,68.8,3.0
-2026-05-20,q1-lakeside,Race 11,YOU TELL HER,1.0,3.83,2.0,1.3,67.4,8.0
 2026-05-20,q1-lakeside,Race 12,FOXY FAWN,2.0,3.85,2.0,2.3,69.3,1.0
 2026-05-20,q1-lakeside,Race 12,JACK'S THING,3.0,3.91,3.0,2.7,68.0,6.0
 2026-05-20,q1-lakeside,Race 12,MISS MULGOWIE,4.0,3.91,4.0,3.1,67.9,7.0
@@ -9978,7 +9952,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-21,q-straight,Race 02,BIG NATE,7.0,3.99,4.0,5.7,73.2,3.0
 2026-05-21,q-straight,Race 02,BIRDS THE WORD,2.0,4.16,6.0,,70.9,7.0
 2026-05-21,q-straight,Race 02,BLACK IS BACK,3.0,4.17,7.0,3.0,71.7,5.0
-2026-05-21,q-straight,Race 02,CRISIS AVERTED,4.0,4.06,5.0,4.1,71.4,4.0
 2026-05-21,q-straight,Race 02,TOMMY KNUCKLES,8.0,3.89,1.0,4.9,72.9,1.0
 2026-05-21,q-straight,Race 03,JUDGED,3.0,3.98,4.0,3.7,71.7,5.0
 2026-05-21,q-straight,Race 03,SALUTE,8.0,3.99,5.0,5.9,73.8,1.0
@@ -10044,7 +10017,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-21,q2-parklands,Race 11,SOMEONE'S IDEA,1.0,3.91,4.0,0.3,68.4,6.0
 2026-05-21,q2-parklands,Race 11,WIGGLE ON,3.0,3.92,6.0,1.6,67.3,5.0
 2026-05-21,q2-parklands,Race 12,CASH HANDY,1.0,3.85,1.0,0.9,70.1,3.0
-2026-05-21,q2-parklands,Race 12,DAINTREE CHIEF,8.0,3.91,3.0,4.3,68.5,7.0
 2026-05-21,q2-parklands,Race 12,GOLDSTAR JASPER,2.0,4.05,7.0,3.0,70.2,1.0
 2026-05-21,q2-parklands,Race 12,JEREMIAH FIRE,3.0,3.95,6.0,1.5,69.5,4.0
 2026-05-21,q2-parklands,Race 12,MISS DARKSIDE,7.0,3.9,2.0,3.6,69.7,5.0
@@ -10187,7 +10159,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-23,q1-lakeside,Race 07,SUPER SCRUB,8.0,3.89,2.0,2.1,72.9,2.0
 2026-05-23,q1-lakeside,Race 07,TRUE LEGEND,5.0,4.12,7.0,1.1,71.3,8.0
 2026-05-23,q1-lakeside,Race 07,WINSOME JET,1.0,3.92,3.0,-0.9,74.9,1.0
-2026-05-23,q1-lakeside,Race 08,BACKCREEK BUTCH,4.0,3.97,3.0,0.8,69.2,7.0
 2026-05-23,q1-lakeside,Race 08,BIG AL'S,2.0,4.01,6.0,-0.8,70.7,8.0
 2026-05-23,q1-lakeside,Race 08,DOOGIE MCGRAW,6.0,3.98,4.0,1.7,72.6,4.0
 2026-05-23,q1-lakeside,Race 08,DRAMATICAL,7.0,4.02,8.0,2.2,74.0,2.0
@@ -10233,7 +10204,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-24,q2-parklands,Race 04,MASCARA GIRL,8.0,4.13,3.0,3.2,70.2,4.0
 2026-05-24,q2-parklands,Race 04,PROWL,7.0,4.17,4.0,2.5,69.5,6.0
 2026-05-24,q2-parklands,Race 04,ZIPPING BOGART,1.0,4.19,5.0,0.6,69.7,7.0
-2026-05-24,q2-parklands,Race 05,ARTHUR TANGO,4.0,4.19,6.0,1.8,69.9,3.0
 2026-05-24,q2-parklands,Race 05,JENNY DUTTON,1.0,4.12,5.0,1.0,71.4,2.0
 2026-05-24,q2-parklands,Race 05,KICKER ZOOM,2.0,3.95,1.0,1.9,72.1,6.0
 2026-05-24,q2-parklands,Race 05,PILTON VIEW,7.0,4.0,2.0,3.3,71.0,1.0
@@ -10510,7 +10480,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-27,q1-lakeside,Race 11,SUPER SEAFARER,5.0,3.91,3.0,4.4,68.6,1.0
 2026-05-27,q1-lakeside,Race 12,GOLDSTAR EVERLY,4.0,3.97,8.0,3.3,66.3,8.0
 2026-05-27,q1-lakeside,Race 12,RUSTY ACES,1.0,3.88,6.0,1.3,66.9,6.0
-2026-05-27,q1-lakeside,Race 12,WISE RICO,8.0,3.88,5.0,5.4,67.1,5.0
 2026-05-27,q1-lakeside,Race 13,BLANCO FIRE,1.0,3.93,5.0,2.0,66.2,7.0
 2026-05-27,q1-lakeside,Race 13,DIVINE SUZANNE,6.0,3.87,3.0,4.8,67.0,6.0
 2026-05-27,q1-lakeside,Race 13,FLYING MCKEON,2.0,3.97,7.0,2.6,67.0,3.0
@@ -10567,7 +10536,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-28,q-straight,Race 03,JADE CLOVER,1.0,4.01,2.0,,73.3,1.0
 2026-05-28,q-straight,Race 03,MIDGET EMERALD,3.0,3.9,1.0,4.4,71.1,3.0
 2026-05-28,q-straight,Race 03,RUNAWAY SKITTLE,7.0,4.12,6.0,5.7,71.3,5.0
-2026-05-28,q-straight,Race 04,OSCAR BRAVO,4.0,3.89,2.0,2.6,72.2,5.0
 2026-05-28,q-straight,Race 04,PADOVA,1.0,4.13,6.0,2.2,74.5,2.0
 2026-05-28,q-straight,Race 04,RECONSTRUCTION,5.0,4.06,4.0,4.7,73.4,2.0
 2026-05-28,q-straight,Race 04,TITANIUM BLUE,7.0,4.1,5.0,5.1,71.9,6.0
@@ -10575,7 +10543,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-28,q-straight,Race 05,MAYWYN PETER,7.0,3.88,4.0,4.8,71.9,7.0
 2026-05-28,q-straight,Race 05,UTAH GUNN,5.0,3.83,1.0,4.2,72.7,3.0
 2026-05-28,q-straight,Race 06,BARDWELL,2.0,3.99,6.0,2.5,73.2,5.0
-2026-05-28,q-straight,Race 06,CANYA FLAVOUR,3.0,3.97,4.0,2.8,72.4,4.0
 2026-05-28,q-straight,Race 06,FREE SETTLER,4.0,3.93,3.0,3.7,72.9,3.0
 2026-05-28,q-straight,Race 06,ODDS ARE GOOD,1.0,3.82,1.0,2.4,73.7,2.0
 2026-05-28,q-straight,Race 06,SETTLE FOR LESS,7.0,3.83,2.0,,75.3,1.0
@@ -10740,7 +10707,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-30,q2-parklands,Race 06,HARA'S MILENA,6.0,4.06,7.0,2.8,70.0,3.0
 2026-05-30,q2-parklands,Race 06,SPEED HOLES,5.0,3.98,5.0,3.1,69.3,5.0
 2026-05-30,q2-parklands,Race 06,SPIRALLING,8.0,4.01,6.0,4.1,69.5,4.0
-2026-05-30,q2-parklands,Race 06,TERRA BELLA,3.0,3.81,1.0,1.4,71.4,1.0
 2026-05-30,q2-parklands,Race 06,TWO CENT TILLY,1.0,3.97,4.0,0.4,69.0,8.0
 2026-05-30,q2-parklands,Race 07,COMICAL WARREN,2.0,3.93,8.0,1.0,67.6,4.0
 2026-05-30,q2-parklands,Race 07,HARA'S NEO,1.0,3.72,1.0,0.4,71.8,5.0
@@ -10758,7 +10724,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-05-30,q2-parklands,Race 09,GRANT KEEPING,4.0,3.83,2.0,1.7,71.6,1.0
 2026-05-30,q2-parklands,Race 09,HARA'S LOKI,6.0,3.93,4.0,3.1,68.0,4.0
 2026-05-30,q2-parklands,Race 09,HERE'S THE PLAN,1.0,3.97,7.0,0.5,67.1,5.0
-2026-05-30,q2-parklands,Race 10,BEAUTIFUL CHILD,3.0,3.79,1.0,0.7,70.6,1.0
 2026-05-30,q2-parklands,Race 10,BROWN BREAD,2.0,3.97,8.0,1.2,70.3,3.0
 2026-05-30,q2-parklands,Race 10,DON'T YOU THINK,7.0,3.96,5.0,2.9,68.2,6.0
 2026-05-30,q2-parklands,Race 10,FIRE TEARS,4.0,3.92,3.0,2.1,66.7,4.0
@@ -10919,7 +10884,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-02,q1-lakeside,Race 04,SIRIUS MELITA,8.0,3.93,4.0,5.3,68.7,2.0
 2026-06-02,q1-lakeside,Race 04,SISTER DOLLY,1.0,3.95,5.0,1.7,67.4,8.0
 2026-06-02,q1-lakeside,Race 05,AVALON BEACH,8.0,3.95,1.0,3.8,69.2,4.0
-2026-06-02,q1-lakeside,Race 05,FORGE AHEAD,5.0,4.07,5.0,2.6,67.7,6.0
 2026-06-02,q1-lakeside,Race 05,PROFESSOR SHOGUN,7.0,4.08,6.0,3.2,68.4,5.0
 2026-06-02,q1-lakeside,Race 05,TOO SNEAKY,6.0,4.02,3.0,3.3,67.7,7.0
 2026-06-02,q1-lakeside,Race 05,VERMENTINO,2.0,4.04,4.0,0.5,69.9,1.0
@@ -11062,7 +11026,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-03,q1-lakeside,Race 09,INSANE DANCER,2.0,3.85,2.0,2.7,68.4,4.0
 2026-06-03,q1-lakeside,Race 09,OUTLAW TORQUE,8.0,3.94,6.0,5.4,67.5,8.0
 2026-06-03,q1-lakeside,Race 09,TUSKEN WARRIOR,1.0,3.89,3.0,2.3,70.8,2.0
-2026-06-03,q1-lakeside,Race 10,CHA CHA KITTY,4.0,3.95,7.0,3.1,68.0,6.0
 2026-06-03,q1-lakeside,Race 10,EASTLY BLOOM,7.0,3.88,4.0,4.2,68.3,4.0
 2026-06-03,q1-lakeside,Race 10,SHE'S A BULLET,3.0,3.89,6.0,2.7,67.0,7.0
 2026-06-03,q1-lakeside,Race 10,TUTA ENDLESS,6.0,3.86,2.0,3.5,70.5,2.0
@@ -11084,7 +11047,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-03,q1-lakeside,Race 14,DIVINE SUZANNE,5.0,3.94,6.0,3.5,67.2,7.0
 2026-06-03,q1-lakeside,Race 14,DRINK MOJITOS,2.0,3.95,7.0,2.0,67.9,5.0
 2026-06-03,q1-lakeside,Race 14,GROUSE MOUSE,3.0,3.89,4.0,3.0,67.6,4.0
-2026-06-03,q1-lakeside,Race 14,SUMMER'S DUNAY,8.0,3.83,1.0,4.7,70.4,1.0
 2026-06-03,rockhampton,Race 01,FIERY WORDS,1.0,3.72,2.0,1.0,69.4,1.0
 2026-06-03,rockhampton,Race 01,IT'S SNOWTIME,6.0,3.89,3.0,2.4,67.8,4.0
 2026-06-03,rockhampton,Race 01,ROSA'S PEACHES,2.0,3.7,1.0,1.7,67.9,2.0
@@ -11361,7 +11323,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-06,q2-parklands,Race 04,PROWL,2.0,3.94,2.0,1.0,66.4,6.0
 2026-06-06,q2-parklands,Race 05,GOLDSTAR GINNY,3.0,4.26,7.0,2.0,66.7,7.0
 2026-06-06,q2-parklands,Race 05,KING OF SNAKE,4.0,4.0,4.0,2.2,67.8,3.0
-2026-06-06,q2-parklands,Race 05,MIDNIGHT QUEEN,8.0,3.96,2.0,3.1,71.0,2.0
 2026-06-06,q2-parklands,Race 05,RED DIRT ROAD,6.0,4.03,5.0,2.6,67.7,5.0
 2026-06-06,q2-parklands,Race 05,SOIREE,1.0,3.98,3.0,0.7,68.1,1.0
 2026-06-06,q2-parklands,Race 06,BACKCREEK BUTCH,3.0,3.91,5.0,1.8,69.0,7.0
@@ -11422,7 +11383,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-07,q2-parklands,Race 08,HARA'S PICKLE,7.0,3.9,4.0,2.9,66.3,7.0
 2026-06-07,q2-parklands,Race 08,NON STOP WHISKEY,3.0,3.88,3.0,1.5,70.6,3.0
 2026-06-07,q2-parklands,Race 08,NOT HALF BAD,2.0,3.94,6.0,0.5,68.4,4.0
-2026-06-07,q2-parklands,Race 08,SIRONEN TIGER,6.0,3.95,7.0,2.7,67.6,6.0
 2026-06-07,q2-parklands,Race 09,GO WILD BLUE,5.0,3.94,2.0,3.3,68.9,3.0
 2026-06-07,q2-parklands,Race 09,HARA'S LOKI,3.0,3.97,4.0,,70.1,4.0
 2026-06-07,q2-parklands,Race 09,SAGACIOUS SYD,7.0,3.98,6.0,4.0,69.4,5.0
@@ -11567,7 +11527,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-09,q1-lakeside,Race 02,SISTER DOLLY,8.0,4.14,8.0,5.2,68.5,8.0
 2026-06-09,q1-lakeside,Race 03,BIRDS THE WORD,3.0,4.07,3.0,1.5,66.5,8.0
 2026-06-09,q1-lakeside,Race 03,FORGE AHEAD,8.0,4.12,7.0,3.5,66.8,3.0
-2026-06-09,q1-lakeside,Race 03,NICE FIGURE,6.0,4.08,5.0,2.7,67.1,5.0
 2026-06-09,q1-lakeside,Race 03,SHE'S DYNAMITE,5.0,4.15,8.0,2.3,67.0,6.0
 2026-06-09,q1-lakeside,Race 04,AVALON BEACH,1.0,3.92,1.0,0.3,70.0,2.0
 2026-06-09,q1-lakeside,Race 04,BRUNSWICK BOY,2.0,4.01,3.0,0.7,69.6,1.0
@@ -11894,7 +11853,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-12,q1-lakeside,Race 03,STAR FERNANDO,5.0,4.12,8.0,1.2,69.7,3.0
 2026-06-12,q1-lakeside,Race 04,BAREFOOT ROYALE,6.0,4.06,7.0,2.3,68.8,3.0
 2026-06-12,q1-lakeside,Race 04,HARA'S SPUD,2.0,4.07,8.0,,67.1,8.0
-2026-06-12,q1-lakeside,Race 04,HOOKED ON DOLLY,5.0,4.01,6.0,2.1,69.0,6.0
 2026-06-12,q1-lakeside,Race 04,PROFESSOR SAXON,3.0,4.01,5.0,1.2,68.7,4.0
 2026-06-12,q1-lakeside,Race 05,DETECTIVE,8.0,4.13,7.0,,68.5,8.0
 2026-06-12,q1-lakeside,Race 05,JUAN BANDITO,3.0,3.92,1.0,1.3,70.2,2.0
@@ -11931,7 +11889,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-12,q1-lakeside,Race 12,GOLDSTAR SALLY,6.0,3.92,2.0,2.4,69.6,1.0
 2026-06-12,q1-lakeside,Race 12,KACHINA RIPPLE,1.0,3.95,3.0,0.4,68.6,3.0
 2026-06-12,q1-lakeside,Race 12,SANTORINI BEACH,2.0,3.99,6.0,0.9,68.2,5.0
-2026-06-12,q1-lakeside,Race 12,SCRUB'S BLUE,3.0,3.97,4.0,1.2,69.2,6.0
 2026-06-12,townsville,Race 02,ELECTRA SHADOW,2.0,4.0,4.0,1.4,66.7,4.0
 2026-06-12,townsville,Race 02,MALI'S ANGEL,7.0,4.22,8.0,2.5,68.0,5.0
 2026-06-12,townsville,Race 02,MISS RHONDA,8.0,4.08,7.0,3.8,67.2,6.0
@@ -12219,7 +12176,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-16,q1-lakeside,Race 05,MAY MOO MOO,3.0,4.04,3.0,1.5,68.7,2.0
 2026-06-16,q1-lakeside,Race 05,NOBLE TOBY,8.0,3.95,1.0,3.1,70.9,1.0
 2026-06-16,q1-lakeside,Race 05,OCEAN ART,7.0,4.08,5.0,2.7,67.2,6.0
-2026-06-16,q1-lakeside,Race 05,WON'T BE LONG,1.0,4.01,2.0,0.7,68.7,3.0
 2026-06-16,q1-lakeside,Race 06,CANYA ATOMIC,4.0,4.11,7.0,1.0,72.3,6.0
 2026-06-16,q1-lakeside,Race 06,DAYSEA'S KURT,6.0,3.91,1.0,1.0,72.0,2.0
 2026-06-16,q1-lakeside,Race 06,GOLDSTAR KLEIN,7.0,4.16,8.0,1.7,72.0,7.0
@@ -12239,7 +12195,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-16,q1-lakeside,Race 10,BRUNSWICK BOY,7.0,4.06,6.0,2.0,71.2,4.0
 2026-06-16,q1-lakeside,Race 10,CRAVEN,8.0,4.0,4.0,2.8,71.0,6.0
 2026-06-16,q1-lakeside,Race 10,FEDERAL VOODOO,5.0,3.92,1.0,1.0,72.4,2.0
-2026-06-16,q1-lakeside,Race 10,HARA'S OTIS,3.0,3.97,2.0,0.1,73.9,1.0
 2026-06-16,q1-lakeside,Race 10,NOT THE DEPUTY,4.0,4.05,5.0,1.0,70.8,7.0
 2026-06-16,q1-lakeside,Race 10,PROFESSOR SHOGUN,6.0,4.1,8.0,1.6,69.8,8.0
 2026-06-16,q1-lakeside,Race 10,RECIPROCATED,2.0,4.0,3.0,-0.7,72.4,3.0
@@ -12426,7 +12381,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-18,q-straight,Race 05,HARA'S JOKER,1.0,3.9,3.0,2.0,74.3,1.0
 2026-06-18,q-straight,Race 05,ISABELLA LILLY,4.0,3.95,6.0,4.2,73.8,3.0
 2026-06-18,q-straight,Race 05,OUTLAW TORQUE,8.0,3.9,2.0,6.9,73.5,4.0
-2026-06-18,q-straight,Race 05,SON OF BOB,5.0,3.91,4.0,4.9,71.8,6.0
 2026-06-18,q-straight,Race 05,STRONG BOY,3.0,4.09,7.0,,70.1,7.0
 2026-06-18,q-straight,Race 06,BLANCO FIRE,8.0,3.96,5.0,6.2,70.2,7.0
 2026-06-18,q-straight,Race 06,HARA'S MAX,3.0,3.91,4.0,3.1,73.7,2.0
@@ -12463,7 +12417,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-18,q-straight,Race 12,SPECIAL ROCKY,5.0,3.94,7.0,5.4,73.9,7.0
 2026-06-18,q2-parklands,Race 03,MIDNIGHT QUEEN,7.0,3.96,1.0,2.3,69.5,2.0
 2026-06-18,q2-parklands,Race 03,PHOENIX AMELIA,1.0,4.03,3.0,1.1,68.2,3.0
-2026-06-18,q2-parklands,Race 03,STOWAWAY,3.0,4.1,6.0,1.3,66.2,6.0
 2026-06-18,q2-parklands,Race 04,GOLDSTAR PRADA,1.0,4.12,6.0,0.8,69.0,1.0
 2026-06-18,q2-parklands,Race 04,KING OF SNAKE,5.0,4.03,3.0,1.8,68.1,3.0
 2026-06-18,q2-parklands,Race 04,RED DIRT ROAD,7.0,4.06,4.0,2.6,67.6,6.0
@@ -12510,7 +12463,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-18,q2-parklands,Race 11,ELECTRIC CHA CHA,3.0,3.88,1.0,1.5,67.8,2.0
 2026-06-18,q2-parklands,Race 11,GARRISON,4.0,4.03,6.0,0.7,69.3,1.0
 2026-06-18,q2-parklands,Race 11,MISS DARKSIDE,1.0,3.88,2.0,0.4,68.6,6.0
-2026-06-18,q2-parklands,Race 11,OBLIGING BILL,5.0,3.89,3.0,2.2,66.4,3.0
 2026-06-19,q1-lakeside,Race 02,DODGEM DUKE,1.0,3.96,1.0,-0.3,69.0,2.0
 2026-06-19,q1-lakeside,Race 02,GOLDSTAR BUZZ,8.0,4.08,5.0,3.2,67.5,6.0
 2026-06-19,q1-lakeside,Race 02,LAST BOLT,3.0,4.01,3.0,1.5,69.0,4.0
@@ -12981,7 +12933,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-23,q1-lakeside,Race 14,BOGIE BECKER,6.0,4.09,8.0,3.7,66.6,8.0
 2026-06-23,q1-lakeside,Race 14,DIVINE SUZANNE,6.0,3.96,6.0,4.1,69.3,3.0
 2026-06-23,q1-lakeside,Race 14,FUSELESS FLYNN,4.0,3.82,1.0,3.1,67.7,4.0
-2026-06-23,q1-lakeside,Race 14,GOLDSTAR CRYSTAL,4.0,4.04,8.0,3.4,69.9,4.0
 2026-06-23,q1-lakeside,Race 14,HEY JACK,8.0,3.93,3.0,5.4,68.8,2.0
 2026-06-23,q1-lakeside,Race 14,IN VINO VERITAS,7.0,4.07,7.0,4.5,66.7,7.0
 2026-06-23,q1-lakeside,Race 14,KICKER WILDCARD,5.0,3.87,2.0,3.9,67.8,5.0
@@ -13004,7 +12955,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-23,townsville,Race 03,ASTON KINNIE,3.0,3.84,2.0,1.7,70.6,3.0
 2026-06-23,townsville,Race 03,TEX GUNN,6.0,3.92,3.0,2.4,71.6,1.0
 2026-06-23,townsville,Race 03,ZINA CORTEZ,2.0,3.96,4.0,1.0,70.3,4.0
-2026-06-23,townsville,Race 04,AMBER ANNIE,6.0,4.06,6.0,3.0,70.2,1.0
 2026-06-23,townsville,Race 04,FEDERAL BLUE BOY,8.0,3.91,2.0,3.9,72.0,2.0
 2026-06-23,townsville,Race 04,FEDERAL CASH,4.0,3.87,1.0,2.4,71.3,3.0
 2026-06-23,townsville,Race 04,HARA'S GHOST,7.0,4.01,4.0,,70.3,6.0
@@ -13187,7 +13137,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-25,q-straight,Race 05,DENIM BEACH,8.0,3.86,6.0,,72.9,5.0
 2026-06-25,q-straight,Race 05,MAJESTIC ETHICS,1.0,3.88,7.0,1.6,72.2,8.0
 2026-06-25,q-straight,Race 05,SANDAVE STAPLES,4.0,3.82,4.0,3.6,74.1,1.0
-2026-06-25,q-straight,Race 05,SCOTCH AND BYE,7.0,3.77,1.0,5.8,73.7,3.0
 2026-06-25,q-straight,Race 05,WHAT'S THE PRICE,6.0,3.95,8.0,6.0,72.8,7.0
 2026-06-25,q-straight,Race 05,WINTER WHISKY,2.0,3.8,3.0,2.2,72.7,4.0
 2026-06-25,q-straight,Race 07,GOLDSTAR JASPER,1.0,3.89,4.0,,73.4,6.0
@@ -13266,14 +13215,12 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-25,q2-parklands,Race 11,ELECTRIC CHA CHA,4.0,3.86,1.0,2.1,69.0,1.0
 2026-06-25,q2-parklands,Race 11,HEY ERNIE,7.0,3.86,2.0,3.3,69.3,3.0
 2026-06-25,q2-parklands,Race 11,JAYSON BULL,2.0,3.91,4.0,1.0,65.7,7.0
-2026-06-25,q2-parklands,Race 11,JUMPING JIVE,6.0,3.96,6.0,2.6,66.7,8.0
 2026-06-25,q2-parklands,Race 11,MISS DARKSIDE,3.0,3.87,3.0,1.4,67.5,4.0
 2026-06-25,q2-parklands,Race 11,OBLIGING BILL,1.0,3.97,8.0,0.4,68.6,2.0
 2026-06-25,q2-parklands,Race 11,VERACIOUS VAL,8.0,3.94,5.0,3.7,66.5,5.0
 2026-06-26,q1-lakeside,Race 01,DISTANT DREAMS,3.0,4.03,3.0,1.7,69.4,1.0
 2026-06-26,q1-lakeside,Race 01,FACTORY SECOND,2.0,4.25,8.0,1.3,69.4,5.0
 2026-06-26,q1-lakeside,Race 01,FROG'S ROCK,1.0,4.07,6.0,0.9,67.4,3.0
-2026-06-26,q1-lakeside,Race 01,GRAND THUMPER,4.0,4.03,2.0,2.1,67.5,7.0
 2026-06-26,q1-lakeside,Race 01,HILLTOP SMILE,5.0,4.12,7.0,3.1,69.4,4.0
 2026-06-26,q1-lakeside,Race 01,LAST PHANTOM,7.0,4.06,5.0,2.9,66.5,6.0
 2026-06-26,q1-lakeside,Race 02,DODGEM DUKE,3.0,3.95,3.0,1.0,69.6,2.0
@@ -13300,7 +13247,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-26,q1-lakeside,Race 05,APEX,5.0,3.88,3.0,1.8,69.8,5.0
 2026-06-26,q1-lakeside,Race 05,BURRINGBAR REBEL,3.0,3.97,5.0,1.3,69.7,3.0
 2026-06-26,q1-lakeside,Race 05,GOLDSTAR KLEIN,1.0,3.99,7.0,-0.2,70.1,6.0
-2026-06-26,q1-lakeside,Race 05,HOPE'S JACKY,6.0,3.81,1.0,2.7,72.0,1.0
 2026-06-26,q1-lakeside,Race 05,SING MY SONG,2.0,3.86,2.0,0.3,70.6,2.0
 2026-06-26,q1-lakeside,Race 05,WAIKARIE VENOM,4.0,4.05,8.0,1.8,69.0,8.0
 2026-06-26,q1-lakeside,Race 06,ABODE'S TRILOGY,8.0,3.93,3.0,3.2,70.3,5.0
@@ -13490,7 +13436,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-28,q2-parklands,Race 04,JENNY DUTTON,2.0,4.13,3.0,1.4,71.7,1.0
 2026-06-28,q2-parklands,Race 04,NURSE CHRISTINA,3.0,4.0,1.0,1.5,70.3,4.0
 2026-06-28,q2-parklands,Race 04,PROWL,5.0,4.22,6.0,2.4,67.3,8.0
-2026-06-28,q2-parklands,Race 04,SILVER MOON,8.0,4.16,4.0,3.3,70.7,3.0
 2026-06-28,q2-parklands,Race 05,COPACETIC,1.0,3.96,7.0,0.3,66.6,4.0
 2026-06-28,q2-parklands,Race 05,GOLDSTAR MILA,3.0,3.93,5.0,1.8,68.4,7.0
 2026-06-28,q2-parklands,Race 05,NEW BEGINNING,8.0,3.9,3.0,3.7,68.5,5.0
@@ -13520,7 +13465,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-28,q2-parklands,Race 09,JAVEN'S SHOT,1.0,3.95,1.0,0.9,71.3,5.0
 2026-06-28,q2-parklands,Race 09,KINGSBRAE BRETT,8.0,4.03,4.0,3.2,70.9,3.0
 2026-06-28,q2-parklands,Race 09,KONSTANTIN,2.0,4.0,3.0,1.6,70.7,7.0
-2026-06-28,q2-parklands,Race 09,OLIVER GO,7.0,4.12,8.0,2.7,70.8,1.0
 2026-06-28,q2-parklands,Race 10,DEAL 'EM HIGH,4.0,3.96,5.0,1.8,68.4,5.0
 2026-06-28,q2-parklands,Race 10,FIRE TEARS,8.0,3.92,3.0,3.0,68.5,1.0
 2026-06-28,q2-parklands,Race 10,HARA'S PICKLE,6.0,3.91,2.0,2.4,72.0,2.0
@@ -13611,10 +13555,8 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-29,q-straight,Race 04,HAYMET HARRY,4.0,4.09,5.0,6.3,68.1,7.0
 2026-06-29,q-straight,Race 04,HE IS RIDICULOUS,8.0,4.2,8.0,,67.0,8.0
 2026-06-29,q-straight,Race 04,LET THEM BE,1.0,4.06,3.0,6.0,70.3,3.0
-2026-06-29,q-straight,Race 04,VELVET DASH,6.0,4.13,7.0,8.0,69.2,4.0
 2026-06-29,q-straight,Race 05,AUSTRIAN ROSE,6.0,3.91,2.0,,71.7,2.0
 2026-06-29,q-straight,Race 05,DROVER'S GOLD,8.0,4.01,7.0,,69.8,8.0
-2026-06-29,q-straight,Race 05,SMASH THE JOKER,4.0,4.02,8.0,7.3,69.5,7.0
 2026-06-29,q-straight,Race 05,SON OF MINYA,1.0,3.92,4.0,,71.4,4.0
 2026-06-29,q-straight,Race 05,TURBO TORQUE,3.0,3.89,1.0,,72.0,1.0
 2026-06-29,q-straight,Race 07,ACES UP HERE,5.0,4.01,7.0,8.8,73.9,2.0
@@ -13658,7 +13600,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-06-30,q1-lakeside,Race 02,KEEP YOU POSTED,4.0,3.84,2.0,2.7,69.4,3.0
 2026-06-30,q1-lakeside,Race 02,SHE'S SAVVY,5.0,3.94,8.0,3.5,68.6,7.0
 2026-06-30,q1-lakeside,Race 02,TUSKEN WIND,6.0,3.78,1.0,3.8,71.8,1.0
-2026-06-30,q1-lakeside,Race 03,BAR NONE,7.0,3.96,6.0,4.4,67.4,7.0
 2026-06-30,q1-lakeside,Race 03,MAGIC MYSTERY,2.0,3.97,7.0,2.7,69.2,5.0
 2026-06-30,q1-lakeside,Race 03,REGAL SAINT,5.0,3.91,5.0,4.5,69.8,4.0
 2026-06-30,q1-lakeside,Race 03,SING MY SONG,8.0,3.83,2.0,4.9,70.0,2.0
@@ -13773,7 +13714,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-01,q1-lakeside,Race 09,PANAMA FLAME,7.0,3.82,1.0,4.0,68.5,4.0
 2026-07-01,q1-lakeside,Race 09,PROFESSOR NESSA,5.0,3.94,6.0,3.8,66.4,8.0
 2026-07-01,q1-lakeside,Race 09,TIGGY BOODIE,2.0,3.85,3.0,2.8,68.8,2.0
-2026-07-01,q1-lakeside,Race 10,END OF ERA,1.0,3.93,4.0,2.1,69.8,1.0
 2026-07-01,q1-lakeside,Race 10,HOPE MOO MOO,3.0,3.84,2.0,3.4,69.4,2.0
 2026-07-01,q1-lakeside,Race 10,PANAMA POWER,4.0,3.95,5.0,3.8,67.2,7.0
 2026-07-01,q1-lakeside,Race 10,RUXTON SPICE,2.0,3.8,1.0,2.3,68.7,5.0
@@ -13789,7 +13729,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-01,q1-lakeside,Race 12,GOLDEN PHARAOH,2.0,3.86,5.0,1.5,70.7,2.0
 2026-07-01,q1-lakeside,Race 12,RANNOCH,5.0,3.81,3.0,3.7,68.6,5.0
 2026-07-01,q1-lakeside,Race 12,SIR BAREFOOT,8.0,3.87,6.0,5.4,69.0,6.0
-2026-07-01,q1-lakeside,Race 12,VELOCITY COMMIT,6.0,3.87,7.0,4.1,68.1,7.0
 2026-07-01,q1-lakeside,Race 13,AERATION,8.0,3.9,7.0,5.1,69.9,3.0
 2026-07-01,q1-lakeside,Race 13,FEDERAL GALAXY,2.0,3.78,2.0,3.1,68.1,8.0
 2026-07-01,q1-lakeside,Race 13,FUSELESS FLYNN,4.0,3.85,3.0,3.4,69.4,4.0
@@ -13799,7 +13738,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-01,q1-lakeside,Race 13,WARREGO RAIN,7.0,3.95,8.0,4.5,69.4,5.0
 2026-07-01,q1-lakeside,Race 14,DIVINE SUZANNE,2.0,3.9,6.0,2.4,68.4,5.0
 2026-07-01,q1-lakeside,Race 14,GOLDSTAR FOSTER,6.0,4.01,8.0,3.6,68.0,7.0
-2026-07-01,q1-lakeside,Race 14,HEATLEY HAYZE,4.0,3.79,1.0,2.9,70.3,1.0
 2026-07-01,q1-lakeside,Race 14,IT'S AN ACE,3.0,3.85,4.0,2.9,68.2,6.0
 2026-07-01,q1-lakeside,Race 14,NOAKI STAR,1.0,3.82,3.0,1.8,68.5,4.0
 2026-07-01,q1-lakeside,Race 14,SOLAR FLARE,8.0,3.85,5.0,4.7,69.6,3.0
@@ -13897,7 +13835,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-02,q1-lakeside,Race 03,CYCLONE LEO,1.0,4.17,8.0,-0.9,72.1,8.0
 2026-07-02,q1-lakeside,Race 03,DAYSEA'S MAX,4.0,3.82,1.0,0.8,73.1,3.0
 2026-07-02,q1-lakeside,Race 03,KOBY KEEPING,2.0,3.94,3.0,-1.3,73.6,1.0
-2026-07-02,q1-lakeside,Race 03,MALAWI REBEL,8.0,4.04,5.0,2.0,74.0,2.0
 2026-07-02,q1-lakeside,Race 03,SHERIFF,6.0,4.12,7.0,0.6,71.8,6.0
 2026-07-02,q1-lakeside,Race 03,TRALAERO,3.0,4.03,4.0,-0.1,71.4,7.0
 2026-07-02,q1-lakeside,Race 04,BRUNSWICK FLYER,3.0,4.15,8.0,0.0,72.2,5.0
@@ -13929,7 +13866,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-02,q2-parklands,Race 04,WHISKEY SERVICE,6.0,3.83,1.0,2.8,69.1,1.0
 2026-07-02,q2-parklands,Race 05,BILLIE CASH KID,3.0,3.92,3.0,1.9,67.5,3.0
 2026-07-02,q2-parklands,Race 05,BREAKOUT LAD,6.0,3.92,4.0,3.4,69.1,1.0
-2026-07-02,q2-parklands,Race 05,BRUNSWICK ROCKET,5.0,3.95,5.0,2.7,66.3,8.0
 2026-07-02,q2-parklands,Race 05,MISS DARKSIDE,4.0,3.97,6.0,1.6,66.6,7.0
 2026-07-02,q2-parklands,Race 05,OBLIGING BILL,8.0,3.99,7.0,3.7,67.3,5.0
 2026-07-02,q2-parklands,Race 05,WHITE MACK,1.0,3.92,2.0,0.5,70.0,2.0
@@ -14094,7 +14030,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-04,q2-parklands,Race 09,ZIPPING LEE,1.0,3.82,2.0,0.7,69.8,1.0
 2026-07-04,q2-parklands,Race 10,ETERNITY BRIDGE,3.0,3.87,3.0,1.1,70.4,6.0
 2026-07-04,q2-parklands,Race 10,GOLDSTAR ANNIE,5.0,3.91,6.0,2.2,70.0,8.0
-2026-07-04,q2-parklands,Race 10,GRACE ILE,6.0,3.83,2.0,2.6,71.0,2.0
 2026-07-04,q2-parklands,Race 10,HARA'S PUMPKIN,2.0,3.83,1.0,0.7,71.8,4.0
 2026-07-04,q2-parklands,Race 10,HOOKED ON KISSES,7.0,3.9,5.0,3.3,69.9,5.0
 2026-07-04,q2-parklands,Race 10,MISS BEAR,4.0,3.99,8.0,2.2,70.3,1.0
@@ -14114,11 +14049,9 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-05,q2-parklands,Race 02,LUCY LOU,4.0,3.91,3.0,1.8,69.1,7.0
 2026-07-05,q2-parklands,Race 02,MIDNIGHT TEXADA,1.0,4.01,6.0,0.3,68.9,3.0
 2026-07-05,q2-parklands,Race 02,SISTER CHARM,3.0,3.99,5.0,1.2,66.6,6.0
-2026-07-05,q2-parklands,Race 02,ZIPPING ALCARAZ,2.0,3.86,1.0,0.7,71.1,1.0
 2026-07-05,q2-parklands,Race 03,GOLDSTAR HUNTER,1.0,4.0,3.0,1.2,68.0,2.0
 2026-07-05,q2-parklands,Race 03,OCEAN ART,7.0,4.06,5.0,2.9,67.0,4.0
 2026-07-05,q2-parklands,Race 03,ROCKET ROXY,2.0,3.87,1.0,0.7,69.8,1.0
-2026-07-05,q2-parklands,Race 03,ROM BARO,8.0,4.02,4.0,3.3,68.4,3.0
 2026-07-05,q2-parklands,Race 04,ASAWA BABY,4.0,3.91,4.0,,70.8,5.0
 2026-07-05,q2-parklands,Race 04,CASHED UP BETH,1.0,3.8,1.0,1.2,70.4,2.0
 2026-07-05,q2-parklands,Race 04,SMOKY CHIPOTLE,3.0,3.84,2.0,1.8,69.1,3.0
@@ -14141,7 +14074,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-05,q2-parklands,Race 07,CANYA BOLT,8.0,3.9,5.0,4.3,68.4,2.0
 2026-07-05,q2-parklands,Race 07,PAW PEREZ,2.0,3.95,6.0,1.0,67.8,8.0
 2026-07-05,q2-parklands,Race 07,RESTLESS MIND,5.0,3.84,3.0,2.4,69.8,1.0
-2026-07-05,q2-parklands,Race 08,ANOTHER IDEA,8.0,3.86,1.0,3.5,68.7,3.0
 2026-07-05,q2-parklands,Race 08,APPEAL,2.0,3.89,4.0,0.8,70.0,1.0
 2026-07-05,q2-parklands,Race 08,BEXLEY,4.0,3.91,6.0,1.2,67.7,5.0
 2026-07-05,q2-parklands,Race 08,COOL HAND DON,7.0,3.89,3.0,3.0,66.5,8.0
@@ -14151,8 +14083,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-05,q2-parklands,Race 09,EVIE SCARLETT,1.0,3.87,1.0,1.2,69.0,4.0
 2026-07-05,q2-parklands,Race 09,LAKODA BONNIE,7.0,3.9,2.0,3.0,67.7,2.0
 2026-07-05,q2-parklands,Race 09,MORE THAN MERRY,4.0,3.91,3.0,2.2,68.5,3.0
-2026-07-05,q2-parklands,Race 09,OXLEY CHARM,8.0,3.92,4.0,3.7,68.0,5.0
-2026-07-05,q2-parklands,Race 09,SUNSET DREAM,5.0,4.12,7.0,2.0,68.1,6.0
 2026-07-05,q2-parklands,Race 10,ADA TANGO,8.0,3.99,6.0,4.4,69.1,2.0
 2026-07-05,q2-parklands,Race 10,BOOM TOWN,6.0,3.82,2.0,3.2,69.6,3.0
 2026-07-05,q2-parklands,Race 10,BUSH BOUQUET,4.0,3.87,4.0,2.7,70.1,6.0
@@ -14431,7 +14361,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-08,q1-lakeside,Race 08,SHIMMERING LIGHT,4.0,3.89,2.0,3.8,68.9,3.0
 2026-07-08,q1-lakeside,Race 08,SUNSET DREAMING,2.0,3.9,4.0,2.3,68.7,1.0
 2026-07-08,q1-lakeside,Race 09,BIZZARO BOY,6.0,3.84,4.0,4.7,69.5,3.0
-2026-07-08,q1-lakeside,Race 09,NINA SIYAN,5.0,3.8,2.0,4.5,70.1,2.0
 2026-07-08,q1-lakeside,Race 09,OUT OF AUSTRIAN,2.0,3.88,5.0,2.2,68.8,5.0
 2026-07-08,q1-lakeside,Race 09,SHIMA POLLY,7.0,3.96,8.0,4.3,69.4,8.0
 2026-07-08,q1-lakeside,Race 09,TAKE OVER HAZE,4.0,3.84,3.0,3.1,68.7,7.0
@@ -14512,7 +14441,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-09,q-straight,Race 02,ASTON SAXON,6.0,3.94,1.0,4.1,71.4,3.0
 2026-07-09,q-straight,Race 02,BYE BRUNETTE,2.0,4.16,7.0,3.4,71.3,7.0
 2026-07-09,q-straight,Race 02,ELITE CAVIAR,8.0,3.99,3.0,7.0,72.8,2.0
-2026-07-09,q-straight,Race 02,IT'S AWAY,1.0,4.05,6.0,,72.4,6.0
 2026-07-09,q-straight,Race 02,JADA HAYZE,4.0,3.98,2.0,,73.5,1.0
 2026-07-09,q-straight,Race 02,POISON VOODOO,7.0,4.04,4.0,,72.5,4.0
 2026-07-09,q-straight,Race 02,TICKLE DRAGON,3.0,4.05,5.0,,72.4,5.0
@@ -14833,12 +14761,9 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-11,q2-parklands,Race 02,FADE TO BLACK,8.0,3.97,3.0,3.9,68.9,3.0
 2026-07-11,q2-parklands,Race 02,LAKEVIEW HUNTER,5.0,4.12,7.0,1.7,67.4,4.0
 2026-07-11,q2-parklands,Race 02,SOIREE,2.0,4.04,6.0,1.1,68.4,1.0
-2026-07-11,q2-parklands,Race 02,STARFIRE TEARS,3.0,3.97,2.0,1.5,67.0,6.0
 2026-07-11,q2-parklands,Race 02,TRUMPET TEARS,1.0,4.0,4.0,0.7,66.3,5.0
 2026-07-11,q2-parklands,Race 03,BLUE ROCKET SHIP,7.0,3.89,4.0,,71.1,3.0
 2026-07-11,q2-parklands,Race 03,HARA'S TYRION,8.0,4.0,7.0,3.7,69.8,6.0
-2026-07-11,q2-parklands,Race 03,HEATED RIVALRY,6.0,3.97,6.0,2.9,68.1,5.0
-2026-07-11,q2-parklands,Race 03,SCARCITY,5.0,3.87,3.0,2.5,67.7,7.0
 2026-07-11,q2-parklands,Race 03,SHE'S MAYHEM,4.0,3.85,2.0,1.7,70.1,1.0
 2026-07-11,q2-parklands,Race 03,SOBRIQUET,2.0,3.8,1.0,0.6,70.8,2.0
 2026-07-11,q2-parklands,Race 03,TO XIBALBA,3.0,3.9,5.0,1.2,70.8,4.0
@@ -14885,7 +14810,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-11,q2-parklands,Race 09,CHAMA,3.0,4.02,8.0,1.2,69.0,1.0
 2026-07-11,q2-parklands,Race 09,GRACE ILE,4.0,3.8,1.0,1.5,71.5,2.0
 2026-07-11,q2-parklands,Race 09,MISS BEAR,7.0,3.98,6.0,3.7,68.7,7.0
-2026-07-11,q2-parklands,Race 09,PENNY CALIDO,8.0,3.97,5.0,4.0,68.5,8.0
 2026-07-11,q2-parklands,Race 09,SUNLIT AMBER,5.0,3.95,4.0,2.1,67.5,6.0
 2026-07-11,q2-parklands,Race 09,ZIPPING CHEBET,2.0,3.87,2.0,0.9,71.1,4.0
 2026-07-11,q2-parklands,Race 10,ANOTHER IDEA,1.0,3.81,1.0,0.7,71.3,4.0
@@ -14893,7 +14817,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-11,q2-parklands,Race 10,CLEAN ENGINES,5.0,3.99,6.0,3.1,66.5,6.0
 2026-07-11,q2-parklands,Race 10,DASHING NANDO,8.0,3.9,4.0,4.5,67.2,5.0
 2026-07-11,q2-parklands,Race 10,HUFF AND PUFF,4.0,4.12,7.0,,65.9,7.0
-2026-07-11,q2-parklands,Race 10,JIMMY LEGS,3.0,3.95,5.0,1.7,68.5,2.0
 2026-07-11,q2-parklands,Race 10,RESTLESS MIND,6.0,3.87,3.0,3.0,69.5,3.0
 2026-07-11,q2-parklands,Race 11,CHA CHA KITTY,4.0,3.98,6.0,1.5,67.3,6.0
 2026-07-11,q2-parklands,Race 11,JUMPING JIVE,8.0,3.92,4.0,3.6,68.2,5.0
@@ -15030,7 +14953,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-13,q-straight,Race 04,WEDGES,5.0,4.21,8.0,8.2,71.4,5.0
 2026-07-13,q-straight,Race 05,AUSTRIAN ROSE,4.0,4.1,2.0,,75.3,1.0
 2026-07-13,q-straight,Race 05,HARD STYLE MISS,1.0,4.14,5.0,,74.6,5.0
-2026-07-13,q-straight,Race 05,HARD STYLE TIGER,6.0,4.14,6.0,,74.5,6.0
 2026-07-13,q-straight,Race 05,LADY YOYO,8.0,4.01,1.0,10.0,71.2,3.0
 2026-07-13,q-straight,Race 05,VINDALOO,2.0,4.17,8.0,,74.1,8.0
 2026-07-13,q-straight,Race 06,BLACK HARADA,4.0,4.05,4.0,8.1,70.0,5.0
@@ -15041,7 +14963,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-13,q-straight,Race 06,VELVET DASH,2.0,4.05,6.0,6.9,69.6,7.0
 2026-07-13,q-straight,Race 06,ZABDON MIRACLE,3.0,3.94,2.0,6.6,70.4,3.0
 2026-07-13,q-straight,Race 07,AGILE BOY,6.0,4.09,8.0,9.3,72.9,4.0
-2026-07-13,q-straight,Race 07,CAKE IS YUMMY,4.0,3.83,1.0,8.9,71.5,2.0
 2026-07-13,q-straight,Race 07,GOLDEN EYE,2.0,3.95,4.0,5.2,71.1,8.0
 2026-07-13,q-straight,Race 07,ORLANDO BEACH,5.0,3.98,7.0,,71.8,7.0
 2026-07-13,q-straight,Race 07,SHE'S SAVVY,8.0,3.96,5.0,,72.1,5.0
@@ -15147,12 +15068,10 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-14,q1-lakeside,Race 09,GRACE ILE,2.0,3.86,1.0,0.0,73.8,3.0
 2026-07-14,q1-lakeside,Race 09,HARA'S JACKSON,5.0,3.97,5.0,1.0,73.6,7.0
 2026-07-14,q1-lakeside,Race 09,HARA'S OTIS,6.0,4.01,8.0,1.6,72.6,8.0
-2026-07-14,q1-lakeside,Race 09,HELLO ELSA,1.0,3.87,2.0,-0.7,74.4,2.0
 2026-07-14,q1-lakeside,Race 09,JACK'S DOUBLED,8.0,3.94,4.0,2.6,74.1,1.0
 2026-07-14,q1-lakeside,Race 09,ULTIMATE ETHICS,7.0,3.97,6.0,1.9,72.4,4.0
 2026-07-14,q1-lakeside,Race 10,FOXTON LOCH,8.0,4.11,7.0,4.6,71.2,7.0
 2026-07-14,q1-lakeside,Race 10,HOLLY'S BEAR,3.0,4.0,5.0,2.4,73.3,3.0
-2026-07-14,q1-lakeside,Race 10,MONDO CORTEZ,2.0,3.92,1.0,1.8,73.9,1.0
 2026-07-14,q1-lakeside,Race 10,REDMAN JOHNNY,7.0,3.97,3.0,3.5,72.8,5.0
 2026-07-14,q1-lakeside,Race 10,RUPEE'S ROCKET,4.0,3.95,2.0,2.6,72.9,2.0
 2026-07-14,q1-lakeside,Race 10,SOUTHPAW MCGRAW,1.0,3.99,4.0,1.3,71.6,6.0
@@ -15173,7 +15092,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-14,q1-lakeside,Race 13,HARA'S DOLLY,2.0,3.99,4.0,-0.4,72.0,5.0
 2026-07-14,q1-lakeside,Race 13,REIN ME IN,1.0,4.0,5.0,-1.4,72.7,4.0
 2026-07-14,q1-lakeside,Race 13,SHE PICKED IT,8.0,4.02,6.0,2.2,71.7,3.0
-2026-07-14,q1-lakeside,Race 14,BALANCE THE TILL,8.0,4.0,4.0,3.0,70.2,6.0
 2026-07-14,q1-lakeside,Race 14,DAYSEA'S MAX,3.0,3.89,1.0,0.6,72.6,4.0
 2026-07-14,q1-lakeside,Race 14,FREE SETTLER,2.0,4.0,5.0,-0.4,72.8,2.0
 2026-07-14,q1-lakeside,Race 14,HARA'S JOKER,1.0,3.95,2.0,-1.3,74.0,3.0
@@ -15303,7 +15221,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-15,q1-lakeside,Race 08,NOAKI UNO,3.0,3.83,3.0,2.9,63.6,8.0
 2026-07-15,q1-lakeside,Race 08,REDEEMER'S WAY,5.0,3.82,2.0,3.8,69.5,1.0
 2026-07-15,q1-lakeside,Race 08,SOLAR FLARE,2.0,3.85,5.0,2.7,69.4,3.0
-2026-07-15,q1-lakeside,Race 08,WHO'S IDEA,1.0,3.84,4.0,1.6,68.2,2.0
 2026-07-15,q1-lakeside,Race 09,ATOMIC PRINCE,4.0,3.97,6.0,3.2,70.5,3.0
 2026-07-15,q1-lakeside,Race 09,BELLA LUNA,6.0,4.0,7.0,4.1,66.7,7.0
 2026-07-15,q1-lakeside,Race 09,DIVINE SUZANNE,2.0,3.85,2.0,2.3,68.9,8.0
@@ -15389,13 +15306,11 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-16,q-straight,Race 02,JADA HAYZE,4.0,3.83,2.0,3.7,73.4,1.0
 2026-07-16,q-straight,Race 02,LAUREN'S BABY,5.0,3.89,3.0,,72.6,4.0
 2026-07-16,q-straight,Race 02,MAVERICK,7.0,3.83,1.0,5.8,72.7,3.0
-2026-07-16,q-straight,Race 02,PANNONIA,3.0,3.98,6.0,3.9,72.8,5.0
 2026-07-16,q-straight,Race 02,POISON VOODOO,1.0,3.94,5.0,,71.8,6.0
 2026-07-16,q-straight,Race 02,SATISFIED,2.0,3.91,4.0,3.1,72.8,2.0
 2026-07-16,q-straight,Race 03,BOMBASTIC LOLA,7.0,4.0,5.0,,70.6,3.0
 2026-07-16,q-straight,Race 03,BORROWED LOVE,2.0,4.01,6.0,,70.3,4.0
 2026-07-16,q-straight,Race 03,CRISIS AVERTED,8.0,4.07,8.0,6.1,71.5,2.0
-2026-07-16,q-straight,Race 03,DO THE MATHS,3.0,3.86,1.0,4.4,69.6,5.0
 2026-07-16,q-straight,Race 03,PANAMA KING,1.0,3.92,2.0,2.7,71.6,1.0
 2026-07-16,q-straight,Race 03,SHE'S AMERICAN,4.0,3.94,3.0,4.6,71.2,7.0
 2026-07-16,q-straight,Race 03,SMASH THE JOKER,5.0,4.06,7.0,,69.5,8.0
@@ -15428,7 +15343,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-16,q-straight,Race 07,NOT THE DEPUTY,8.0,3.92,3.0,5.6,71.8,7.0
 2026-07-16,q-straight,Race 07,TOUGH ENOUGH,1.0,3.89,2.0,2.9,73.0,1.0
 2026-07-16,q-straight,Race 08,ACES UP HERE,5.0,3.95,8.0,5.3,73.8,3.0
-2026-07-16,q-straight,Race 08,FEDERAL EMERAN,2.0,3.79,1.0,3.3,73.7,2.0
 2026-07-16,q-straight,Race 08,HEY ERNIE,3.0,3.89,6.0,3.0,73.1,6.0
 2026-07-16,q-straight,Race 08,HIDDEN AGENDA,8.0,3.89,5.0,6.1,70.7,8.0
 2026-07-16,q-straight,Race 08,KALINA PEARL,7.0,3.79,2.0,4.5,73.5,4.0
@@ -15451,7 +15365,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-16,q-straight,Race 10,UNACCEPTABLE MAR,5.0,3.94,6.0,,72.1,6.0
 2026-07-16,q-straight,Race 10,VAN NOSTRAND,8.0,3.91,5.0,6.4,72.5,5.0
 2026-07-16,q-straight,Race 12,DAD'S VISION,4.0,3.87,2.0,4.0,71.5,6.0
-2026-07-16,q-straight,Race 12,GOLDSTAR MURPHY,8.0,3.9,4.0,7.1,73.8,1.0
 2026-07-16,q-straight,Race 12,INTO OBLIVION,1.0,3.9,5.0,,73.0,4.0
 2026-07-16,q-straight,Race 12,LUCORA,7.0,3.9,3.0,6.3,72.4,3.0
 2026-07-16,q-straight,Race 12,TASTE LIKE HONEY,2.0,4.12,7.0,2.1,70.0,7.0
@@ -15532,13 +15445,10 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-17,q1-lakeside,Race 03,TUKI BEACH,3.0,3.99,6.0,1.5,69.3,7.0
 2026-07-17,q1-lakeside,Race 03,WISE KEVIN,6.0,3.99,7.0,2.6,69.9,6.0
 2026-07-17,q1-lakeside,Race 04,BIG REVEAL,3.0,3.97,4.0,1.8,65.4,8.0
-2026-07-17,q1-lakeside,Race 04,FUN DAY,5.0,3.88,1.0,1.9,70.1,1.0
 2026-07-17,q1-lakeside,Race 04,HEY JACK,1.0,4.01,6.0,0.3,66.8,7.0
 2026-07-17,q1-lakeside,Race 04,MAYWYN'S LUCK,6.0,4.14,8.0,2.9,68.4,5.0
 2026-07-17,q1-lakeside,Race 04,PIERRE HAYZE,4.0,4.06,7.0,2.2,68.9,2.0
 2026-07-17,q1-lakeside,Race 04,RAPID LULU,8.0,3.98,5.0,3.5,70.4,3.0
-2026-07-17,q1-lakeside,Race 04,SISSY MAYBELLE,7.0,3.94,3.0,3.1,67.9,6.0
-2026-07-17,q1-lakeside,Race 04,THAI MYSTIQUE,2.0,3.94,2.0,0.9,68.7,4.0
 2026-07-17,q1-lakeside,Race 05,DAINTREE GRACE,1.0,3.95,3.0,0.1,67.4,7.0
 2026-07-17,q1-lakeside,Race 05,FLAMING BLOSSOM,4.0,3.99,5.0,1.7,67.7,2.0
 2026-07-17,q1-lakeside,Race 05,INDIGO BEACH,6.0,3.88,1.0,2.0,69.5,3.0
@@ -15705,11 +15615,9 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-18,q1-lakeside,Race 04,RITZA RINGER,8.0,4.18,8.0,0.8,73.4,2.0
 2026-07-18,q1-lakeside,Race 04,SHADOW CATCHER,4.0,3.93,1.0,1.1,72.3,6.0
 2026-07-18,q1-lakeside,Race 04,TRUE HORNET,6.0,4.04,7.0,1.5,72.0,5.0
-2026-07-18,q1-lakeside,Race 05,BIG EASY AL,2.0,3.91,2.0,-1.1,71.3,6.0
 2026-07-18,q1-lakeside,Race 05,DISTANCE DRUMS,5.0,4.02,7.0,1.0,72.5,5.0
 2026-07-18,q1-lakeside,Race 05,DUFFMAN,7.0,3.95,6.0,2.0,72.4,7.0
 2026-07-18,q1-lakeside,Race 05,RAFFA,8.0,3.94,5.0,3.2,74.6,2.0
-2026-07-18,q1-lakeside,Race 05,SELECT AIRLEY,3.0,3.92,4.0,-0.2,72.7,4.0
 2026-07-18,q1-lakeside,Race 05,WICKET,6.0,3.91,3.0,1.3,74.1,3.0
 2026-07-18,q1-lakeside,Race 05,ZIPPING KRAVITZ,4.0,3.9,1.0,0.4,75.1,1.0
 2026-07-18,q1-lakeside,Race 06,HARA'S FRANKIE,6.0,3.84,1.0,3.6,74.3,2.0
@@ -15758,7 +15666,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-19,q2-parklands,Race 01,BLACKJACK TABLE,7.0,3.96,3.0,3.2,67.3,4.0
 2026-07-19,q2-parklands,Race 01,GLOVES ARE OFF,2.0,3.93,2.0,1.0,68.5,7.0
 2026-07-19,q2-parklands,Race 01,HIGH COURT JUDGE,4.0,4.11,8.0,3.2,68.3,2.0
-2026-07-19,q2-parklands,Race 01,HIGH LEAK,3.0,3.99,6.0,,68.1,5.0
 2026-07-19,q2-parklands,Race 01,KICKER SPARKLES,6.0,4.06,7.0,,66.8,8.0
 2026-07-19,q2-parklands,Race 01,MACARENA RIPPLE,1.0,3.98,5.0,0.5,69.7,6.0
 2026-07-19,q2-parklands,Race 01,NO REIGNS,8.0,3.92,1.0,3.6,69.3,1.0
@@ -15772,14 +15679,12 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-19,q2-parklands,Race 03,BREAKOUT LAD,4.0,4.0,1.0,2.5,73.6,2.0
 2026-07-19,q2-parklands,Race 03,COOLHAND SUE,1.0,4.05,3.0,0.6,71.3,5.0
 2026-07-19,q2-parklands,Race 03,DASHING NANDO,7.0,4.07,4.0,3.1,69.4,6.0
-2026-07-19,q2-parklands,Race 03,GOT STYLE,5.0,4.14,5.0,2.0,70.3,4.0
 2026-07-19,q2-parklands,Race 03,OLIVER GO,2.0,4.01,2.0,1.2,71.6,1.0
 2026-07-19,q2-parklands,Race 03,RUPEE'S ROCKET,8.0,4.18,6.0,2.9,70.1,3.0
 2026-07-19,q2-parklands,Race 04,COOLHAND CHLOE,4.0,4.14,6.0,1.7,71.2,5.0
 2026-07-19,q2-parklands,Race 04,GORDON KEEPING,8.0,4.13,5.0,2.9,72.5,3.0
 2026-07-19,q2-parklands,Race 04,LEGS ELEVEN,1.0,3.96,1.0,0.8,70.6,4.0
 2026-07-19,q2-parklands,Race 04,NANGAR POLLY,3.0,3.98,2.0,1.5,72.8,2.0
-2026-07-19,q2-parklands,Race 04,RIORSON BALE,7.0,4.1,4.0,2.6,73.3,1.0
 2026-07-19,q2-parklands,Race 04,WATCH MY SIX,6.0,4.02,3.0,2.2,70.3,6.0
 2026-07-19,q2-parklands,Race 05,ETERNITY BRIDGE,1.0,3.83,1.0,0.4,71.5,1.0
 2026-07-19,q2-parklands,Race 05,NOT HALF BAD,8.0,3.96,5.0,3.5,69.4,2.0
@@ -15796,7 +15701,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-19,q2-parklands,Race 07,BLUEY IS BOUJEE,1.0,3.91,5.0,0.4,70.1,3.0
 2026-07-19,q2-parklands,Race 07,CANYA KELSEY,8.0,3.88,4.0,3.7,68.8,6.0
 2026-07-19,q2-parklands,Race 07,FILL MY POCKETS,5.0,3.99,7.0,2.3,69.2,4.0
-2026-07-19,q2-parklands,Race 07,HOLD THE GAVEL,2.0,3.87,2.0,1.1,69.8,5.0
 2026-07-19,q2-parklands,Race 07,INSTALLER,6.0,3.94,6.0,,69.6,7.0
 2026-07-19,q2-parklands,Race 07,ZEPHYR,3.0,3.88,3.0,,70.8,2.0
 2026-07-19,q2-parklands,Race 07,ZIPPING TESFAY,7.0,3.82,1.0,2.7,72.1,1.0
@@ -15804,7 +15708,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-19,q2-parklands,Race 08,CASHED UP BETH,4.0,3.76,1.0,2.0,70.3,7.0
 2026-07-19,q2-parklands,Race 08,CASHED UP RHI,3.0,3.99,6.0,2.2,68.4,8.0
 2026-07-19,q2-parklands,Race 08,FIRE TEARS,1.0,3.85,3.0,0.4,69.5,2.0
-2026-07-19,q2-parklands,Race 08,GREAT TERMS,6.0,4.1,8.0,1.5,68.9,6.0
 2026-07-19,q2-parklands,Race 08,LAUNCH MODE,7.0,4.05,7.0,2.4,71.0,4.0
 2026-07-19,q2-parklands,Race 08,MALAWI REBEL,8.0,3.92,5.0,3.3,70.7,1.0
 2026-07-19,q2-parklands,Race 08,SHE'S SAINTLY,5.0,3.82,2.0,2.2,69.9,3.0
@@ -16014,7 +15917,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-21,q1-lakeside,Race 09,HI CHARLIE,5.0,4.07,6.0,3.7,68.2,8.0
 2026-07-21,q1-lakeside,Race 09,LAKODA JILL,6.0,3.94,2.0,4.1,67.9,5.0
 2026-07-21,q1-lakeside,Race 09,PURGA LAD,7.0,4.08,8.0,4.9,67.8,2.0
-2026-07-21,q1-lakeside,Race 09,WINNING EDITION,2.0,3.96,3.0,3.0,68.1,6.0
 2026-07-21,q1-lakeside,Race 10,DASHING NANDO,2.0,3.9,2.0,2.1,68.9,6.0
 2026-07-21,q1-lakeside,Race 10,HARA'S MILLY,5.0,4.18,8.0,3.3,72.1,7.0
 2026-07-21,q1-lakeside,Race 10,HOLLY'S BEAR,3.0,3.95,4.0,2.3,71.9,5.0
@@ -16122,7 +16024,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-22,q1-lakeside,Race 01,TIGER GURU,3.0,4.06,7.0,1.8,69.0,5.0
 2026-07-22,q1-lakeside,Race 01,WAKA TUI,1.0,3.93,2.0,2.0,66.0,7.0
 2026-07-22,q1-lakeside,Race 02,AKULI BESS,7.0,3.99,6.0,4.7,67.0,6.0
-2026-07-22,q1-lakeside,Race 02,CONFIDENTIAL GAL,3.0,3.98,4.0,3.3,68.2,3.0
 2026-07-22,q1-lakeside,Race 02,GOLDSTAR HENRY,1.0,3.98,5.0,2.2,67.2,4.0
 2026-07-22,q1-lakeside,Race 02,GOLDSTAR RHEA,4.0,4.1,8.0,3.6,65.2,7.0
 2026-07-22,q1-lakeside,Race 02,LONG BAY BLUE,6.0,3.92,2.0,4.3,69.5,2.0
@@ -16442,7 +16343,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-24,q1-lakeside,Race 07,INSTALLER,1.0,3.99,7.0,-0.4,69.4,4.0
 2026-07-24,q1-lakeside,Race 07,JANE'S JET,3.0,3.95,4.0,1.2,69.0,6.0
 2026-07-24,q1-lakeside,Race 07,OUTPLAYED,6.0,3.97,6.0,2.5,69.2,5.0
-2026-07-24,q1-lakeside,Race 07,SAMPSON,5.0,4.04,8.0,1.6,69.7,7.0
 2026-07-24,q1-lakeside,Race 07,SPANISH LEGEND,2.0,3.94,2.0,0.7,70.0,2.0
 2026-07-24,q1-lakeside,Race 07,TUSKEN WARRIOR,7.0,3.95,3.0,2.7,69.9,3.0
 2026-07-24,q1-lakeside,Race 08,BOOM TOWN,7.0,3.93,2.0,2.9,69.8,2.0
@@ -16702,7 +16602,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-26,q2-parklands,Race 07,RESTLESS MIND,5.0,3.81,1.0,2.4,70.2,1.0
 2026-07-26,q2-parklands,Race 08,APPEAL,7.0,3.86,2.0,2.3,71.5,1.0
 2026-07-26,q2-parklands,Race 08,BURNT MARU,8.0,3.9,4.0,3.6,68.4,4.0
-2026-07-26,q2-parklands,Race 08,IMPERIAL AUDREY,2.0,3.88,3.0,,70.7,2.0
 2026-07-26,q2-parklands,Race 08,MONTY ZOOMER,6.0,3.98,6.0,2.2,68.7,6.0
 2026-07-26,q2-parklands,Race 08,MORE THAN MERRY,1.0,3.91,5.0,0.7,68.1,5.0
 2026-07-26,q2-parklands,Race 08,SHE'S SAINTLY,3.0,3.86,1.0,1.1,69.4,3.0
@@ -16843,7 +16742,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-27,q-straight,Race 06,SKETCHY BLOKE,3.0,3.92,5.0,7.8,73.7,2.0
 2026-07-27,q-straight,Race 07,ALONE TIME,6.0,4.01,6.0,,71.1,6.0
 2026-07-27,q-straight,Race 07,BEAUTIFY,1.0,4.09,7.0,7.1,70.7,7.0
-2026-07-27,q-straight,Race 07,MEMORIES OF ROSE,4.0,3.97,5.0,8.2,70.5,5.0
 2026-07-27,q-straight,Race 07,NICHOLASVILLE,7.0,3.95,2.0,,72.3,2.0
 2026-07-27,q-straight,Race 07,SKETCHY STORY,2.0,3.96,4.0,5.4,71.7,3.0
 2026-07-27,q-straight,Race 07,SWING BY,3.0,3.9,1.0,,73.2,1.0
@@ -16867,7 +16765,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-27,q-straight,Race 10,KICK IT OFF,5.0,4.0,5.0,,71.4,6.0
 2026-07-27,q-straight,Race 10,OUT OF AUSTRIAN,4.0,3.98,2.0,7.5,72.2,3.0
 2026-07-27,q-straight,Race 10,RAINMAKER JOE,7.0,4.02,7.0,8.8,72.0,2.0
-2026-07-27,q-straight,Race 10,REDBACK JACK,6.0,4.02,6.0,,71.2,7.0
 2026-07-27,q-straight,Race 10,TUTA LONGEVITY,1.0,3.99,4.0,4.8,71.1,5.0
 2026-07-27,q-straight,Race 11,FARMOR DEFIANT,8.0,4.04,7.0,,70.5,7.0
 2026-07-27,q-straight,Race 11,JUJU BLUE,3.0,3.97,3.0,,71.6,4.0
@@ -16943,7 +16840,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-28,q1-lakeside,Race 07,BIG GRIN,5.0,4.02,3.0,1.5,69.8,2.0
 2026-07-28,q1-lakeside,Race 07,CUSTARD,7.0,4.13,5.0,1.9,68.2,6.0
 2026-07-28,q1-lakeside,Race 07,DODGEM DUKE,8.0,4.05,4.0,3.0,71.3,1.0
-2026-07-28,q1-lakeside,Race 07,FLAMING VALORA,3.0,4.02,2.0,-0.6,68.4,3.0
 2026-07-28,q1-lakeside,Race 07,GOLDSTAR HUNTER,2.0,4.15,7.0,-0.5,67.4,4.0
 2026-07-28,q1-lakeside,Race 07,LADY SHAZAM,6.0,4.14,6.0,1.2,67.3,5.0
 2026-07-28,q1-lakeside,Race 07,VELVET DASH,4.0,4.0,1.0,-0.2,67.1,7.0
@@ -16963,7 +16859,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-28,q1-lakeside,Race 10,HOLLY'S BEAR,8.0,4.06,5.0,4.0,70.2,7.0
 2026-07-28,q1-lakeside,Race 10,MILCHICK,4.0,3.99,4.0,2.9,71.6,5.0
 2026-07-28,q1-lakeside,Race 10,NANGAR ZARA,1.0,3.85,1.0,1.9,73.8,1.0
-2026-07-28,q1-lakeside,Race 10,ROMA KEEPING,7.0,3.87,2.0,3.1,72.4,2.0
 2026-07-28,q1-lakeside,Race 10,SPRING FOCUS,2.0,4.07,6.0,2.4,72.5,3.0
 2026-07-28,q1-lakeside,Race 12,CALM AND CRUISY,5.0,3.88,4.0,3.8,69.5,5.0
 2026-07-28,q1-lakeside,Race 12,HAVOC,7.0,4.0,8.0,4.4,68.6,4.0
@@ -17222,13 +17117,11 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-30,q-straight,Race 01,BOAT RIDER,4.0,3.99,3.0,5.7,71.4,4.0
 2026-07-30,q-straight,Race 01,HARA'S PRINCE,2.0,4.52,6.0,5.8,73.2,5.0
 2026-07-30,q-straight,Race 01,IT'S AWAY,8.0,4.08,5.0,9.2,71.4,3.0
-2026-07-30,q-straight,Race 01,MOLLETES,7.0,4.05,4.0,8.0,71.8,1.0
 2026-07-30,q-straight,Race 01,PRETTY DIANA,1.0,3.95,2.0,5.6,70.5,6.0
 2026-07-30,q-straight,Race 01,WHIZZ BANG,5.0,3.93,1.0,6.1,70.7,2.0
 2026-07-30,q-straight,Race 02,CRISIS AVERTED,7.0,3.99,4.0,5.3,70.4,3.0
 2026-07-30,q-straight,Race 02,HAYMET HARRY,4.0,3.96,2.0,4.4,71.3,6.0
 2026-07-30,q-straight,Race 02,KELSEY'S BEACH,8.0,3.98,3.0,7.5,73.1,1.0
-2026-07-30,q-straight,Race 02,SMASHING DOUBLE,3.0,4.04,6.0,4.1,70.1,7.0
 2026-07-30,q-straight,Race 02,TORPEY HAYZE,1.0,3.93,1.0,3.7,71.5,2.0
 2026-07-30,q-straight,Race 02,VERY SHREWD,2.0,4.02,5.0,3.9,71.0,4.0
 2026-07-30,q-straight,Race 02,WINNING EDITION,6.0,4.04,7.0,5.0,71.4,5.0
@@ -17276,7 +17169,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-30,q-straight,Race 09,VITESSE ETOILE,2.0,3.9,5.0,3.1,72.0,5.0
 2026-07-30,q-straight,Race 09,WARREGO RAIN,4.0,3.83,1.0,4.5,73.6,1.0
 2026-07-30,q-straight,Race 10,HEATLEY HAYZE,1.0,3.95,4.0,3.0,72.3,3.0
-2026-07-30,q-straight,Race 10,HOT PINK DOUBLE,4.0,3.95,3.0,4.0,71.3,5.0
 2026-07-30,q-straight,Race 10,LITTLE ROWDY,7.0,3.96,5.0,6.1,72.3,2.0
 2026-07-30,q-straight,Race 10,TOO HOT,8.0,3.96,6.0,6.2,71.5,7.0
 2026-07-30,q-straight,Race 10,TRUSTFUL,2.0,4.0,7.0,3.4,71.4,6.0
@@ -17359,7 +17251,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-07-30,q2-parklands,Race 10,VERACIOUS VAL,1.0,3.91,2.0,0.5,68.8,5.0
 2026-07-31,q1-lakeside,Race 01,ALL THAT GLITTER,2.0,4.02,1.0,0.6,69.7,2.0
 2026-07-31,q1-lakeside,Race 01,DAINTY DOTTIE,1.0,4.11,7.0,0.1,68.4,5.0
-2026-07-31,q1-lakeside,Race 01,JAKARI BRITT,4.0,4.16,8.0,2.0,67.4,7.0
 2026-07-31,q1-lakeside,Race 01,POISON VOODOO,6.0,4.1,5.0,2.5,66.4,6.0
 2026-07-31,q1-lakeside,Race 01,SPRING FABLE,3.0,4.04,2.0,1.2,70.4,1.0
 2026-07-31,q1-lakeside,Race 01,SUGAR THIEF,7.0,4.11,6.0,3.2,64.9,8.0
@@ -17578,7 +17469,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-01,q1-lakeside,Race 06,IMPERIAL AUDREY,6.0,4.12,7.0,2.2,71.1,5.0
 2026-08-01,q1-lakeside,Race 06,JANE'S MAGIC,8.0,3.94,1.0,1.8,69.4,4.0
 2026-08-01,q1-lakeside,Race 06,PRETTY POSH,4.0,4.13,8.0,0.7,72.5,7.0
-2026-08-01,q1-lakeside,Race 06,PSIONIC PROWESS,1.0,3.95,3.0,-0.6,70.9,6.0
 2026-08-01,q1-lakeside,Race 06,RED HOT PENNY,2.0,3.95,2.0,0.6,69.9,2.0
 2026-08-01,q1-lakeside,Race 06,SIMULATE,5.0,4.04,6.0,2.0,70.7,8.0
 2026-08-01,q1-lakeside,Race 06,ZIPPING TESFAY,3.0,4.0,4.0,0.9,72.7,1.0
@@ -17811,13 +17701,11 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-03,q-straight,Race 06,TUTA SUN,6.0,3.97,5.0,8.8,71.4,7.0
 2026-08-03,q-straight,Race 06,ZABDON JUSTICE,1.0,4.0,8.0,4.8,71.5,5.0
 2026-08-03,q-straight,Race 07,AGILE BOY,2.0,4.2,8.0,6.4,72.6,6.0
-2026-08-03,q-straight,Race 07,JAG THE JOKER,7.0,3.89,2.0,8.8,70.4,7.0
 2026-08-03,q-straight,Race 07,MCCLUGGAGE,3.0,4.08,7.0,7.9,73.2,1.0
 2026-08-03,q-straight,Race 07,PSYCHO SUSIE,8.0,3.95,3.0,9.9,71.3,4.0
 2026-08-03,q-straight,Race 07,REDEEMER'S WAY,1.0,3.98,4.0,6.0,73.1,2.0
 2026-08-03,q-straight,Race 07,STAYING ALIVE,5.0,3.87,1.0,8.2,71.5,3.0
 2026-08-03,q-straight,Race 07,TUTA LONGEVITY,4.0,4.0,5.0,7.4,71.4,5.0
-2026-08-03,q-straight,Race 07,WALLY'S BOY,6.0,4.06,6.0,9.6,70.6,8.0
 2026-08-03,q-straight,Race 08,ALTONA BEACH,2.0,3.92,2.0,7.6,72.5,1.0
 2026-08-03,q-straight,Race 08,BIG NATE,5.0,4.19,8.0,9.1,72.0,8.0
 2026-08-03,q-straight,Race 08,INSANE DANCER,3.0,4.05,5.0,8.3,71.3,6.0
@@ -18328,7 +18216,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-06,q2-parklands,Race 06,AUSSIE ZIP,4.0,3.87,3.0,2.0,70.2,4.0
 2026-08-06,q2-parklands,Race 06,GOT THIS GIRLS,7.0,3.83,1.0,4.2,71.8,1.0
 2026-08-06,q2-parklands,Race 06,KONSTANTIN,6.0,3.89,4.0,3.5,69.0,2.0
-2026-08-06,q2-parklands,Race 06,MAGGIE'S SONG,5.0,3.84,2.0,3.2,68.1,5.0
 2026-08-06,q2-parklands,Race 06,MEMORIES OF ROSE,2.0,3.98,6.0,1.8,66.9,7.0
 2026-08-06,q2-parklands,Race 06,SPIRALLING,1.0,3.94,5.0,0.4,70.2,3.0
 2026-08-06,q2-parklands,Race 06,ZIPPING TESFAY,3.0,4.02,7.0,1.7,69.8,6.0
@@ -18367,7 +18254,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-06,q2-parklands,Race 11,HARA'S PICKLE,1.0,3.92,4.0,0.4,70.4,7.0
 2026-08-06,q2-parklands,Race 11,SCARCITY,8.0,3.87,2.0,2.7,69.3,4.0
 2026-08-06,q2-parklands,Race 11,SHE'S MAYHEM,7.0,3.9,3.0,2.4,69.0,5.0
-2026-08-06,q2-parklands,Race 11,ZIPPING DARGAN,4.0,4.04,7.0,1.1,68.1,3.0
 2026-08-06,q2-parklands,Race 12,ABODE'S TRILOGY,3.0,3.86,1.0,2.2,70.6,4.0
 2026-08-06,q2-parklands,Race 12,HEY JACK,6.0,3.99,6.0,3.5,67.9,8.0
 2026-08-06,q2-parklands,Race 12,HOCKING,2.0,3.88,2.0,1.5,70.9,2.0
@@ -18759,7 +18645,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-10,q-straight,Race 05,SWIFT LADY LUNA,8.0,4.04,3.0,10.0,68.5,4.0
 2026-08-10,q-straight,Race 05,TAHITIAN STAR,5.0,4.06,4.0,,69.6,3.0
 2026-08-10,q-straight,Race 05,WEDGES,2.0,4.02,2.0,7.1,68.9,7.0
-2026-08-10,q-straight,Race 06,DYNAMIC BANJO,4.0,3.89,1.0,7.7,71.5,1.0
 2026-08-10,q-straight,Race 06,LET THEM BE,8.0,3.97,3.0,10.8,70.9,6.0
 2026-08-10,q-straight,Race 06,MOLLETES,3.0,4.0,4.0,8.3,71.5,4.0
 2026-08-10,q-straight,Race 06,ONYX FLAME,6.0,4.05,6.0,9.2,71.7,3.0
@@ -18783,7 +18668,6 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-08-10,q-straight,Race 08,NOAKI RADAR,4.0,3.98,2.0,8.2,72.2,2.0
 2026-08-10,q-straight,Race 08,SALUTE,2.0,4.07,5.0,6.9,69.4,5.0
 2026-08-10,q-straight,Race 09,ANTAGONIST,1.0,3.97,3.0,4.2,72.2,3.0
-2026-08-10,q-straight,Race 09,EVEN MORE,7.0,4.04,8.0,10.0,71.3,6.0
 2026-08-10,q-straight,Race 09,FUN DAY,2.0,3.87,1.0,5.7,71.3,2.0
 2026-08-10,q-straight,Race 09,HELP NEEDED,3.0,4.0,5.0,6.6,70.8,7.0
 2026-08-10,q-straight,Race 09,JAG THE JOKER,4.0,3.88,2.0,7.1,70.3,4.0
@@ -24955,3 +24839,169 @@ date,track,race,greyhound,box,split_50m_sec,position_50m,rail_distance_50m_m,top
 2026-09-23,rockhampton,Race 07,RIDING SOLO,5.0,3.84,5.0,1.6,70.3,3.0
 2026-09-23,rockhampton,Race 07,TUSKEN RAIDER,4.0,3.87,6.0,1.5,68.8,6.0
 2026-09-23,rockhampton,Race 07,WYNDRA ALL SMOKE,2.0,3.67,1.0,1.5,71.8,1.0
+2026-09-24,q-straight,Race 01,AKULI HONEY,8.0,4.1,8.0,7.4,72.0,6.0
+2026-09-24,q-straight,Race 01,DOUBLE CHARGE,7.0,4.09,6.0,6.8,73.3,4.0
+2026-09-24,q-straight,Race 01,FEAR THE CAMERA,2.0,3.95,2.0,4.2,71.4,7.0
+2026-09-24,q-straight,Race 01,MISS YOU TOO,6.0,4.08,5.0,6.4,75.0,1.0
+2026-09-24,q-straight,Race 01,SILLY SLOW,3.0,3.86,1.0,4.7,72.2,2.0
+2026-09-24,q-straight,Race 01,SMASH OF GOLD,1.0,3.99,4.0,,72.8,5.0
+2026-09-24,q-straight,Race 01,STINGER BEE,4.0,3.95,3.0,5.8,72.6,3.0
+2026-09-24,q-straight,Race 01,WIN A LOLLY,5.0,4.09,7.0,4.6,69.6,8.0
+2026-09-24,q-straight,Race 02,CRACK A BEER,2.0,4.07,6.0,3.5,72.6,6.0
+2026-09-24,q-straight,Race 02,LITTLE LEXIE,8.0,3.92,5.0,,74.7,3.0
+2026-09-24,q-straight,Race 02,MAJOR STORY,4.0,3.88,2.0,,75.5,1.0
+2026-09-24,q-straight,Race 02,MITTS WHITAKER,6.0,3.92,4.0,4.6,74.6,4.0
+2026-09-24,q-straight,Race 02,MOOSE,7.0,4.08,7.0,,71.7,7.0
+2026-09-24,q-straight,Race 02,NIGHTS BUT YOUNG,3.0,3.9,3.0,,75.1,2.0
+2026-09-24,q-straight,Race 02,TAILORED,1.0,3.85,1.0,4.9,72.6,5.0
+2026-09-24,q-straight,Race 03,DO THE MATHS,6.0,3.85,2.0,6.5,70.7,8.0
+2026-09-24,q-straight,Race 03,FAST MUSTANG,1.0,3.92,3.0,2.8,73.8,1.0
+2026-09-24,q-straight,Race 03,FLAMING VALORA,7.0,3.97,5.0,6.6,71.9,5.0
+2026-09-24,q-straight,Race 03,GRAND THUMPER,8.0,4.0,8.0,7.0,71.2,7.0
+2026-09-24,q-straight,Race 03,HARD STYLE TIGER,4.0,3.92,4.0,3.8,71.6,6.0
+2026-09-24,q-straight,Race 03,IT'S AWAY,3.0,4.0,7.0,5.2,72.0,4.0
+2026-09-24,q-straight,Race 03,NEVER GIVING UP,5.0,3.84,1.0,5.1,72.8,2.0
+2026-09-24,q-straight,Race 03,VELVET DASH,2.0,3.99,6.0,3.2,73.4,3.0
+2026-09-24,q-straight,Race 04,CONFIDENTIAL GAL,4.0,3.97,4.0,4.9,71.2,7.0
+2026-09-24,q-straight,Race 04,FORGE AHEAD,5.0,4.0,7.0,,72.6,5.0
+2026-09-24,q-straight,Race 04,NICE FIGURE,3.0,3.99,6.0,4.4,70.7,8.0
+2026-09-24,q-straight,Race 04,ON A ROLL,6.0,4.01,8.0,,72.4,6.0
+2026-09-24,q-straight,Race 04,SMASHING DOUBLE,1.0,3.99,5.0,,72.9,4.0
+2026-09-24,q-straight,Race 04,STEEL CARESS,2.0,3.96,2.0,3.7,73.2,2.0
+2026-09-24,q-straight,Race 04,VERDUN,8.0,3.96,3.0,7.2,74.4,1.0
+2026-09-24,q-straight,Race 04,WINNING EDITION,7.0,3.92,1.0,6.1,72.7,3.0
+2026-09-24,q-straight,Race 05,CAKE IS YUMMY,1.0,3.81,1.0,4.2,73.1,5.0
+2026-09-24,q-straight,Race 05,GOLDSTAR CRYSTAL,8.0,3.91,5.0,6.6,74.2,3.0
+2026-09-24,q-straight,Race 05,GOLDSTAR MURPHY,5.0,3.88,3.0,5.6,74.8,1.0
+2026-09-24,q-straight,Race 05,KALINA PEARL,7.0,3.93,7.0,6.2,72.7,8.0
+2026-09-24,q-straight,Race 05,NINA SIYAN,4.0,3.82,2.0,5.3,72.9,6.0
+2026-09-24,q-straight,Race 05,OSCAR BRAVO,2.0,3.94,8.0,3.9,74.4,4.0
+2026-09-24,q-straight,Race 05,PEAKY WARLOCK,6.0,3.89,4.0,5.9,72.5,7.0
+2026-09-24,q-straight,Race 05,TARAWI BUSTER,3.0,3.92,6.0,4.7,74.4,2.0
+2026-09-24,q-straight,Race 06,AMALFI BLUE,2.0,3.85,2.0,3.9,75.5,1.0
+2026-09-24,q-straight,Race 06,BIG NATE,8.0,3.98,5.0,7.3,73.1,5.0
+2026-09-24,q-straight,Race 06,JAKARI BRITT,4.0,4.01,6.0,3.9,72.2,7.0
+2026-09-24,q-straight,Race 06,MISS AMARI,7.0,3.88,3.0,6.8,74.5,2.0
+2026-09-24,q-straight,Race 06,PANNONIA,6.0,3.93,4.0,5.6,73.9,3.0
+2026-09-24,q-straight,Race 06,PRETTY PROUD,3.0,3.84,1.0,4.5,73.7,4.0
+2026-09-24,q-straight,Race 06,SLIDE CITY,1.0,4.39,7.0,2.0,75.0,6.0
+2026-09-24,q-straight,Race 07,BAR NONE,4.0,3.87,4.0,,73.3,6.0
+2026-09-24,q-straight,Race 07,CANYA FLAVOUR,8.0,3.99,8.0,6.6,72.2,5.0
+2026-09-24,q-straight,Race 07,CYCLONE TIM,2.0,3.88,5.0,3.6,75.3,
+2026-09-24,q-straight,Race 07,END OF ERA,6.0,3.83,2.0,,74.1,4.0
+2026-09-24,q-straight,Race 07,HUNTER KAREN,3.0,3.73,1.0,4.2,73.7,2.0
+2026-09-24,q-straight,Race 07,JAG THE JOKER,1.0,3.91,6.0,3.1,72.4,7.0
+2026-09-24,q-straight,Race 07,LOVES A CHAT,5.0,3.87,3.0,5.0,73.7,3.0
+2026-09-24,q-straight,Race 07,VELOCITY COMMIT,7.0,3.92,7.0,,72.4,8.0
+2026-09-24,q-straight,Race 08,APRICOT SLICE,2.0,3.94,6.0,4.2,72.6,7.0
+2026-09-24,q-straight,Race 08,FUNKY KONG,7.0,3.96,7.0,6.5,74.3,1.0
+2026-09-24,q-straight,Race 08,HEATLEY HAYZE,3.0,3.75,1.0,4.2,73.2,2.0
+2026-09-24,q-straight,Race 08,SMASH THE JOKER,4.0,3.9,3.0,4.7,72.3,5.0
+2026-09-24,q-straight,Race 08,SON OF BOB,1.0,3.92,5.0,3.5,72.8,4.0
+2026-09-24,q-straight,Race 08,WALLY'S BOY,8.0,4.0,8.0,7.8,71.5,6.0
+2026-09-24,q-straight,Race 08,WON'T BE LONG,6.0,3.92,4.0,6.1,73.6,3.0
+2026-09-24,q-straight,Race 08,ZIPPING ADMIRAL,5.0,3.85,2.0,5.5,72.8,8.0
+2026-09-24,q-straight,Race 09,BAGLESS BRUTE,6.0,3.86,3.0,,74.5,3.0
+2026-09-24,q-straight,Race 09,FEDERAL FELIX,4.0,3.93,7.0,4.6,73.8,5.0
+2026-09-24,q-straight,Race 09,GRAPEFRUIT SILLY,5.0,3.87,5.0,4.8,72.1,8.0
+2026-09-24,q-straight,Race 09,HOT PINK DOUBLE,7.0,3.98,8.0,6.7,72.4,7.0
+2026-09-24,q-straight,Race 09,ISLA COAST,8.0,3.81,1.0,6.4,74.5,1.0
+2026-09-24,q-straight,Race 09,MAN ON FIRE,3.0,3.87,4.0,4.3,74.8,2.0
+2026-09-24,q-straight,Race 09,SCOTCH AND BYE,1.0,3.81,2.0,3.7,74.0,4.0
+2026-09-24,q-straight,Race 09,YOU TELL HER,2.0,3.93,6.0,2.8,75.8,
+2026-09-24,q-straight,Race 10,CRISIS AVERTED,2.0,4.02,6.0,3.1,72.0,6.0
+2026-09-24,q-straight,Race 10,DYNAMIC BANJO,5.0,3.98,5.0,,73.5,5.0
+2026-09-24,q-straight,Race 10,JADA HAYZE,4.0,3.88,2.0,4.4,74.6,2.0
+2026-09-24,q-straight,Race 10,LOST YOUR MARKER,1.0,3.9,3.0,,75.0,3.0
+2026-09-24,q-straight,Race 10,SHIAN GABRIELA,8.0,3.85,1.0,,76.0,1.0
+2026-09-24,q-straight,Race 10,WISE RICO,7.0,3.96,4.0,,73.8,4.0
+2026-09-24,q-straight,Race 11,GOLDSTAR JOBLIN,4.0,3.91,5.0,4.1,72.2,4.0
+2026-09-24,q-straight,Race 11,IT'S A PROMISE,7.0,3.94,6.0,4.9,71.8,6.0
+2026-09-24,q-straight,Race 11,MOLLETES,2.0,3.8,1.0,,73.7,2.0
+2026-09-24,q-straight,Race 11,PROFESSOR STARR,8.0,3.84,3.0,6.1,74.8,1.0
+2026-09-24,q-straight,Race 11,SISSY MAYBELLE,5.0,3.81,2.0,,73.5,3.0
+2026-09-24,q-straight,Race 11,TINY BIT SPOILT,1.0,3.88,4.0,3.4,70.7,5.0
+2026-09-24,q-straight,Race 12,BRUNSWICK ROCKET,5.0,3.88,2.0,5.1,73.5,3.0
+2026-09-24,q-straight,Race 12,EVEN MORE,7.0,3.91,4.0,7.5,73.8,4.0
+2026-09-24,q-straight,Race 12,FUN DAY,4.0,3.87,1.0,4.2,72.9,1.0
+2026-09-24,q-straight,Race 12,REDBACK JACK,2.0,3.92,5.0,3.8,72.5,5.0
+2026-09-24,q-straight,Race 12,STRIKES TWICE,1.0,3.91,3.0,3.0,73.7,2.0
+2026-09-24,q-straight,Race 12,TASTE LIKE HONEY,8.0,4.02,6.0,8.6,72.9,6.0
+2026-09-24,q2-parklands,Race 01,BACKCREEK BETTY,7.0,3.96,4.0,3.6,67.4,7.0
+2026-09-24,q2-parklands,Race 01,BIONIC CYNDIE,3.0,3.79,1.0,1.8,71.7,1.0
+2026-09-24,q2-parklands,Race 01,CANYA ECLIPSE,6.0,3.92,2.0,3.0,68.6,2.0
+2026-09-24,q2-parklands,Race 01,GABBY GIRL,8.0,3.94,3.0,4.3,67.3,8.0
+2026-09-24,q2-parklands,Race 01,HEATED RIVALRY,5.0,4.04,8.0,2.4,68.4,3.0
+2026-09-24,q2-parklands,Race 01,HIGH LEAK,4.0,4.03,6.0,1.8,68.1,6.0
+2026-09-24,q2-parklands,Race 01,LITTLE BEGGAR,2.0,3.97,5.0,0.8,68.2,5.0
+2026-09-24,q2-parklands,Race 01,SHARK TOOTH,1.0,4.04,7.0,0.6,70.0,4.0
+2026-09-24,q2-parklands,Race 02,CHA CHA KITTY,5.0,3.96,5.0,2.2,67.1,5.0
+2026-09-24,q2-parklands,Race 02,HUCKLEBERRY HUGO,7.0,3.91,1.0,2.8,67.6,2.0
+2026-09-24,q2-parklands,Race 02,OBLIGING BILL,4.0,3.93,2.0,1.7,66.8,3.0
+2026-09-24,q2-parklands,Race 02,OXLEY CHARM,1.0,3.94,3.0,0.7,67.4,1.0
+2026-09-24,q2-parklands,Race 02,STOWAWAY,8.0,4.08,6.0,2.7,67.4,4.0
+2026-09-24,q2-parklands,Race 02,THAI MYSTIQUE,2.0,3.96,4.0,1.1,67.4,6.0
+2026-09-24,q2-parklands,Race 03,BANDIT CHLOE,2.0,3.89,3.0,1.1,69.6,1.0
+2026-09-24,q2-parklands,Race 03,CASH HANDY,6.0,3.87,1.0,2.3,66.8,5.0
+2026-09-24,q2-parklands,Race 03,FEDERAL EMERAN,3.0,3.95,6.0,1.5,67.9,6.0
+2026-09-24,q2-parklands,Race 03,IMPERIAL AUDREY,1.0,3.97,7.0,0.6,69.1,2.0
+2026-09-24,q2-parklands,Race 03,JUMPING JIVE,4.0,3.87,2.0,1.7,66.3,7.0
+2026-09-24,q2-parklands,Race 03,MEMORIES OF ROSE,7.0,3.91,4.0,3.3,67.3,4.0
+2026-09-24,q2-parklands,Race 03,SWEET LADETTE,8.0,3.92,5.0,3.8,68.5,3.0
+2026-09-24,q2-parklands,Race 04,BEAUTIFUL CHILD,2.0,3.96,1.0,1.4,69.2,2.0
+2026-09-24,q2-parklands,Race 04,KITTY ANN,8.0,3.99,2.0,3.3,68.2,3.0
+2026-09-24,q2-parklands,Race 04,STARFIRE TEARS,6.0,4.03,3.0,2.3,69.0,1.0
+2026-09-24,q2-parklands,Race 05,ADOBE VIDEL,4.0,3.99,4.0,1.1,68.7,3.0
+2026-09-24,q2-parklands,Race 05,AMBER ANNIE,3.0,4.08,7.0,0.9,69.0,8.0
+2026-09-24,q2-parklands,Race 05,ARTHUR TANGO,2.0,4.22,8.0,0.8,67.0,7.0
+2026-09-24,q2-parklands,Race 05,HOOKED ON DOLLY,7.0,4.05,6.0,,68.7,6.0
+2026-09-24,q2-parklands,Race 05,MIDNIGHT QUEEN,1.0,3.96,2.0,0.0,69.8,2.0
+2026-09-24,q2-parklands,Race 05,MONDO CORTEZ,8.0,3.98,3.0,3.2,70.0,5.0
+2026-09-24,q2-parklands,Race 05,ROM BARO,6.0,4.01,5.0,,69.3,4.0
+2026-09-24,q2-parklands,Race 05,ROMA KEEPING,5.0,3.91,1.0,2.0,68.9,1.0
+2026-09-24,q2-parklands,Race 06,GOT STYLE,7.0,4.01,8.0,2.4,68.5,4.0
+2026-09-24,q2-parklands,Race 06,PEARL'S EVE,5.0,3.93,6.0,1.9,69.6,8.0
+2026-09-24,q2-parklands,Race 06,PENNY CALIDO,8.0,3.82,4.0,3.3,69.2,7.0
+2026-09-24,q2-parklands,Race 06,PSIONIC PROWESS,2.0,3.83,5.0,0.9,67.9,6.0
+2026-09-24,q2-parklands,Race 06,SHE'S MAYHEM,4.0,3.81,2.0,1.5,67.8,5.0
+2026-09-24,q2-parklands,Race 06,SILVER MOON,3.0,3.94,7.0,1.1,69.6,1.0
+2026-09-24,q2-parklands,Race 06,SUMMER'S DUNAY,6.0,3.77,1.0,2.5,71.4,2.0
+2026-09-24,q2-parklands,Race 06,WHO'S IDEA,1.0,3.82,3.0,0.5,69.7,3.0
+2026-09-24,q2-parklands,Race 07,BACKCREEK BENNY,6.0,4.0,7.0,2.9,69.0,5.0
+2026-09-24,q2-parklands,Race 07,BIG EASY AL,8.0,3.88,4.0,3.7,68.2,6.0
+2026-09-24,q2-parklands,Race 07,HERA ROLEX,1.0,3.79,2.0,1.0,71.1,3.0
+2026-09-24,q2-parklands,Race 07,OLIVER GO,3.0,3.88,3.0,1.7,70.0,2.0
+2026-09-24,q2-parklands,Race 07,RIORSON BALE,2.0,3.94,6.0,1.3,69.8,4.0
+2026-09-24,q2-parklands,Race 07,STAR TURN,7.0,3.75,1.0,2.6,72.5,1.0
+2026-09-24,q2-parklands,Race 07,UNACCEPTABLE NIK,4.0,3.88,5.0,2.3,69.7,7.0
+2026-09-24,q2-parklands,Race 08,BACKCREEK BUTCH,1.0,3.92,7.0,0.5,70.5,2.0
+2026-09-24,q2-parklands,Race 08,HARA'S ODEN,3.0,3.84,4.0,1.0,70.4,8.0
+2026-09-24,q2-parklands,Race 08,HOPE'S JACKY,5.0,3.86,5.0,2.0,69.8,6.0
+2026-09-24,q2-parklands,Race 08,MALAWI REBEL,2.0,3.83,3.0,0.6,70.5,1.0
+2026-09-24,q2-parklands,Race 08,SCRUB'S BLUE,4.0,3.74,1.0,1.6,72.1,3.0
+2026-09-24,q2-parklands,Race 08,SIRONEN TIGER,7.0,3.88,6.0,2.8,68.3,7.0
+2026-09-24,q2-parklands,Race 08,SUNSET DREAM,8.0,3.93,8.0,3.4,68.6,5.0
+2026-09-24,q2-parklands,Race 08,TERRA BELLA,6.0,3.8,2.0,2.6,69.5,4.0
+2026-09-24,q2-parklands,Race 09,DAINTREE CHIEF,1.0,3.92,5.0,1.0,69.5,5.0
+2026-09-24,q2-parklands,Race 09,GRACE ILE,4.0,3.82,1.0,2.3,71.1,2.0
+2026-09-24,q2-parklands,Race 09,GREAT TERMS,8.0,3.88,3.0,3.4,68.9,1.0
+2026-09-24,q2-parklands,Race 09,HOLD THE GAVEL,6.0,3.89,4.0,2.7,69.1,7.0
+2026-09-24,q2-parklands,Race 09,HOWDY ELISE,2.0,3.96,6.0,1.5,69.0,6.0
+2026-09-24,q2-parklands,Race 09,SPEED HOLES,7.0,3.99,7.0,3.8,68.6,4.0
+2026-09-24,q2-parklands,Race 09,ZIPPING ALCARAZ,3.0,3.85,2.0,1.5,70.2,3.0
+2026-09-24,q2-parklands,Race 10,HARA'S OTIS,5.0,4.04,7.0,2.0,67.7,6.0
+2026-09-24,q2-parklands,Race 10,JIMMY LEGS,1.0,4.01,5.0,0.3,68.0,2.0
+2026-09-24,q2-parklands,Race 10,LAUNCH MODE,6.0,4.0,4.0,2.7,68.0,7.0
+2026-09-24,q2-parklands,Race 10,PAW KENNETH,3.0,3.88,1.0,1.4,70.0,5.0
+2026-09-24,q2-parklands,Race 10,SAMPSON,2.0,3.94,2.0,0.7,69.6,4.0
+2026-09-24,q2-parklands,Race 10,SCARCITY,8.0,4.02,6.0,3.2,67.3,8.0
+2026-09-24,q2-parklands,Race 10,YUKI,4.0,3.95,3.0,2.0,69.1,1.0
+2026-09-24,q2-parklands,Race 10,ZIPPING DARGAN,7.0,4.13,8.0,2.1,68.5,3.0
+2026-09-24,q2-parklands,Race 11,ANOTHER IDEA,1.0,3.84,2.0,0.7,71.7,3.0
+2026-09-24,q2-parklands,Race 11,ANOTHER SCRUB,6.0,3.85,3.0,2.9,69.3,2.0
+2026-09-24,q2-parklands,Race 11,BALANCE THE TILL,3.0,3.89,4.0,1.5,67.1,4.0
+2026-09-24,q2-parklands,Race 11,HELLO ELSA,4.0,3.81,1.0,1.9,70.2,1.0
+2026-09-24,q2-parklands,Race 11,MAGGIE'S SONG,5.0,3.94,8.0,2.9,68.4,7.0
+2026-09-24,q2-parklands,Race 11,RUBY SLIPPER,8.0,3.94,7.0,4.2,67.9,6.0
+2026-09-24,q2-parklands,Race 11,SELECT AIRLEY,2.0,3.93,5.0,1.1,70.0,5.0
+2026-09-24,q2-parklands,Race 11,SO REFINED,7.0,3.93,6.0,3.5,69.0,8.0
