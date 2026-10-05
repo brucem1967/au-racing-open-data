@@ -9,21 +9,21 @@ If one exists, please open an issue — we would rather link to it than duplicat
 it.
 
 <!-- AUTOSTATS:BEGIN -->
-**152 venues** · 25 greyhound · 62 harness · 65 thoroughbred · **102 club/body-confirmed** · 675 sourced values (251 direct from a club or controlling body)
+**169 venues** · 25 greyhound · 64 harness · 80 thoroughbred · **106 club/body-confirmed** · 760 sourced values (251 direct from a club or controlling body)
 
 | Measurement | Venues with a value |
 |---|---|
-| Turn radius | 75 (49%) |
-| Circumference | 87 (57%) |
-| Home straight | 47 (31%) |
-| Sprint lane | 49 (32%) |
-| Surface | 12 (8%) |
+| Turn radius | 78 (46%) |
+| Circumference | 91 (54%) |
+| Home straight | 47 (28%) |
+| Sprint lane | 49 (29%) |
+| Surface | 12 (7%) |
 | Camber | 6 (4%) |
-| Distance to first turn | 4 (3%) |
+| Distance to first turn | 4 (2%) |
 
-Plus **42 GRV first-split distances** across 13 Victorian greyhound venues, and 84 venues with OpenStreetMap-derived geometry (separately licensed).
+Plus **42 GRV first-split distances** across 13 Victorian greyhound venues, and 101 venues with OpenStreetMap-derived geometry (separately licensed).
 
-_Last rebuilt 2026-09-30._
+_Last rebuilt 2026-10-05._
 <!-- AUTOSTATS:END -->
 
 ## Why this is unusual
