@@ -5,9 +5,9 @@ time, the dog's position at that point, **how far off the rail it was running**,
 and its top speed for the run.
 
 <!-- AUTOSTATS:BEGIN -->
-**25,397 runs** · 3,562 greyhounds · 5 venues · 2025-10-01 → 2026-10-04
+**25,429 runs** · 3,572 greyhounds · 5 venues · 2025-10-01 → 2026-10-05
 
-_Last rebuilt 2026-10-06._
+_Last rebuilt 2026-10-07._
 <!-- AUTOSTATS:END -->
 
 ## Why it matters
