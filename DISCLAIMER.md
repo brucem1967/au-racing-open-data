@@ -38,7 +38,9 @@ venues measured different things in different decades to different standards.
 `track_geometry_sources.csv` exists precisely so you can judge this for
 yourself: every value carries its own provenance, and you can filter to
 `club_or_body_direct` if you only want figures confirmed by the organisation
-that owns the track. OpenStreetMap-derived geometry is a circle fit to a
+that owns the track. Rows marked `published_report` come from a published
+study (the NSW greyhound camber figures, surveyed 2016-17) and may be out of
+date. OpenStreetMap-derived geometry is a circle fit to a
 hand-traced way — good enough to rank tracks, not survey-grade.
 
 If you find an error, please
