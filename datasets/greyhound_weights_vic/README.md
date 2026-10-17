@@ -7,7 +7,7 @@ Race-day weigh-in weights, to 0.1 kg, for Victorian greyhound racing.
 
 > This dataset grows forward only — the source page is overwritten daily, so every day collected is a day that would otherwise have been lost.
 
-_Last rebuilt 2026-10-17._
+_Last rebuilt 2026-10-18._
 <!-- AUTOSTATS:END -->
 
 ## Why this archive exists at all
