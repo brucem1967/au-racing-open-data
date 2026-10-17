@@ -45,6 +45,15 @@ Where no club data exists, some geometry is derived from OpenStreetMap traces
 Those values are kept in a **separate file with a different licence** — see
 below.
 
+Bend camber for 15 NSW greyhound tracks comes from a published study: the
+University of Technology, Sydney's 2018 progress report to Greyhound Racing NSW
+on track design ([UTS repository](https://opus.lib.uts.edu.au/handle/10453/124253)),
+which charts the surveyed crossfall in each track's bends (2016-17 survey, in
+degrees; we give it as a percentage, `tan(degrees) × 100`). These rows are
+marked `published_report` in the sources file. They pre-date GRNSW's track
+upgrade programme, so a track rebuilt since may differ; `camber_note` says
+which tracks are being upgraded or have closed.
+
 ## Files
 
 | File | Rows | Licence | Contents |
@@ -105,6 +114,8 @@ coverage grows.
 - Values come from many sources, measured to different standards and eras. The
   provenance file is there so you can filter to `club_or_body_direct` if you
   want only confirmed measurements.
+- `published_report` values (NSW greyhound camber) are from a 2016-17 survey
+  and may be out of date for tracks rebuilt since.
 - OSM-derived turn radii are a circle fit to a hand-traced way. Good enough to
   rank tracks; not survey-grade.
 - Venue identity is our own `track_id`, not an official code. GRV venue codes
