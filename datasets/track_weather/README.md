@@ -4,9 +4,9 @@ Daily weather observations keyed to racing venue coordinates: rainfall,
 temperature range, maximum wind and maximum gust.
 
 <!-- AUTOSTATS:BEGIN -->
-**223,830 venue-days** · 90 venues · 2020-01-01 → 2026-10-22 · 7 yearly files
+**223,920 venue-days** · 90 venues · 2020-01-01 → 2026-10-23 · 7 yearly files
 
-_Last rebuilt 2026-10-23._
+_Last rebuilt 2026-10-24._
 <!-- AUTOSTATS:END -->
 
 ## Why keyed to venues
