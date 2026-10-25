@@ -22,14 +22,14 @@ from a source that forbids republication — see
 > Full terms: **[DISCLAIMER.md](DISCLAIMER.md)**.
 
 <!-- AUTOSTATS:BEGIN -->
-**351,262 rows across 177 venues, 3,678 greyhounds and 223,920 venue-days of weather** — 25.0 MB of CSV, rebuilt 2026-10-24.
+**351,649 rows across 177 venues, 3,686 greyhounds and 224,010 venue-days of weather** — 25.0 MB of CSV, rebuilt 2026-10-25.
 
 | Dataset | Rows | Coverage |
 |---|---|---|
 | Track geometry | 177 venues, 770 sourced values | 106 club/body-confirmed |
-| Greyhound sectionals (QLD) | 26,203 runs | 2025-10-01 → 2026-10-22 |
-| Greyhound weights (VIC) | 18,633 weigh-ins | 43 race day(s), forward-only |
-| Track weather | 223,920 venue-days | 2020-01-01 → 2026-10-23 |
+| Greyhound sectionals (QLD) | 26,237 runs | 2025-10-01 → 2026-10-23 |
+| Greyhound weights (VIC) | 18,896 weigh-ins | 44 race day(s), forward-only |
+| Track weather | 224,010 venue-days | 2020-01-01 → 2026-10-24 |
 | Harness sectionals (VIC) | 81,416 runner-rows | 9,113 races, 24 venues |
 <!-- AUTOSTATS:END -->
 
