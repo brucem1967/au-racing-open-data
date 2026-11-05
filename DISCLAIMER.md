@@ -44,7 +44,7 @@ date. OpenStreetMap-derived geometry is a circle fit to a
 hand-traced way — good enough to rank tracks, not survey-grade.
 
 If you find an error, please
-[open an issue](https://github.com/brucem1967/au-racing-open-data/issues). If
+[open an issue](https://github.com/bamboostack/au-racing-open-data/issues). If
 you are a club and want a value corrected or removed, say so and it will be
 done — no argument, same day where possible.
 

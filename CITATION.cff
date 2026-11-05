@@ -6,8 +6,8 @@ message: >-
 type: dataset
 authors:
   - name: PandaVision
-    website: https://github.com/brucem1967/au-racing-open-data
-repository-code: https://github.com/brucem1967/au-racing-open-data
+    website: https://github.com/bamboostack/au-racing-open-data
+repository-code: https://github.com/bamboostack/au-racing-open-data
 abstract: >-
   Open datasets for Australian racing: club- and body-sourced track geometry
   (turn radii, cambers, straight lengths, first-split distances) for greyhound,
